@@ -1,0 +1,502 @@
+image,label_reel,ctr,ctr_valide,cardio_flag,heart_cm,thorax_cm,calcif_pct,calcif_label,confiance_m3,m3_utilise,calcif_score,prob_normal,prob_cardio,prob_edema,risk_label,risk_global,niveau,s_ctr,s_calcif,s_cong
+00022290_010.png,Edema,0.507,True,True,17.75,31.86,0.04,Calcification,0.606,True,0.876,0.0,0.0,1.0,Edema,56.8,ÉLEVÉ,0.536,0.876,1.0
+00009459_001.png,No Finding,0.474,True,False,14.93,31.5,0.0,Normal,0.995,True,0.005,1.0,0.0,0.0,Normal,5.6,FAIBLE,0.37,0.005,0.0
+00012834_150.png,Edema|Nodule,-0.05,False,False,0.0,31.5,0.0,Calcification,0.998,True,0.999,0.0,0.0,1.0,Edema,50.0,INDÉTERMINÉ,0.0,0.999,1.0
+00008707_002.png,No Finding,0.447,True,False,15.67,31.5,0.0,Normal,0.5,False,0.5,0.86,0.003,0.138,Normal,14.2,FAIBLE,0.237,0.5,0.138
+00013214_004.png,No Finding,0.432,True,False,15.18,31.5,0.0,Normal,0.608,True,0.392,0.999,0.0,0.0,Normal,6.3,FAIBLE,0.159,0.392,0.0
+00003699_000.png,Edema|Infiltration|Pneumonia,0.508,True,True,16.28,32.06,1.92,Calcification,0.873,True,0.945,0.011,0.001,0.988,Edema,57.1,ÉLEVÉ,0.539,0.945,0.988
+00010012_020.png,Edema,0.458,True,False,16.0,31.5,0.0,Aortic_enlargement,0.559,False,0.769,0.0,0.0,1.0,Edema,52.0,ÉLEVÉ,0.289,0.769,1.0
+00007442_018.png,No Finding,0.489,True,False,17.28,32.06,0.01,Normal,0.726,True,0.274,0.014,0.518,0.468,Cardiomegaly,46.3,ÉLEVÉ,0.445,0.274,0.468
+00010406_014.png,No Finding,0.438,True,False,14.04,32.09,0.0,Normal,0.996,True,0.004,0.995,0.003,0.002,Normal,3.0,FAIBLE,0.188,0.004,0.002
+00009138_027.png,Edema|Infiltration,0.645,True,True,21.9,31.5,0.0,Calcification,0.99,True,0.998,0.002,0.004,0.994,Edema,64.9,ÉLEVÉ,1.0,0.998,0.994
+00023015_000.png,No Finding,0.596,True,True,19.0,31.86,0.0,Normal,0.991,True,0.009,0.042,0.949,0.009,Cardiomegaly,48.4,ÉLEVÉ,0.982,0.009,0.009
+00018724_031.png,Cardiomegaly|Consolidation|Effusion|Mass|Nodule,0.528,True,True,18.21,31.5,1.1,Calcification,0.792,True,0.823,0.0,0.992,0.008,Cardiomegaly,52.9,ÉLEVÉ,0.641,0.823,0.008
+00013881_002.png,Edema|Infiltration,0.39,True,False,13.86,31.5,0.0,Calcification,0.785,True,0.805,0.0,0.004,0.996,Edema,48.0,ÉLEVÉ,0.0,0.805,0.996
+00026346_000.png,No Finding,0.229,False,False,7.35,32.09,0.52,Normal,0.498,False,0.502,0.027,0.049,0.924,Edema,43.7,INDÉTERMINÉ,0.0,0.502,0.924
+00014149_003.png,Edema|Effusion|Infiltration,0.481,True,False,16.73,31.5,0.0,Normal,0.629,True,0.371,0.02,0.073,0.907,Edema,48.6,ÉLEVÉ,0.406,0.371,0.907
+00021035_001.png,Edema|Effusion|Infiltration,0.617,True,True,21.24,31.86,0.71,Normal,0.56,False,0.44,0.0,0.0,1.0,Edema,59.4,ÉLEVÉ,1.0,0.44,1.0
+00027726_009.png,Edema|Nodule,0.497,True,False,17.42,31.86,0.04,Normal,0.959,True,0.041,0.058,0.001,0.941,Edema,45.4,ÉLEVÉ,0.484,0.041,0.941
+00010211_000.png,No Finding,0.529,True,True,13.64,25.8,0.01,Normal,0.978,True,0.022,0.999,0.0,0.0,Normal,9.9,FAIBLE,0.643,0.022,0.0
+00025768_003.png,Atelectasis|Cardiomegaly|Effusion,0.565,True,True,18.13,32.09,0.0,Normal,0.991,True,0.009,0.311,0.469,0.22,Cardiomegaly,37.7,ÉLEVÉ,0.826,0.009,0.22
+00011391_036.png,Edema,0.338,True,False,12.22,31.5,0.37,Calcification,0.496,False,0.984,0.0,0.0,1.0,Edema,49.8,ÉLEVÉ,0.0,0.984,1.0
+00011310_001.png,Edema|Mass,-0.05,False,False,0.0,31.5,0.0,Calcification,0.742,True,0.955,0.001,0.005,0.993,Edema,49.5,INDÉTERMINÉ,0.0,0.955,0.993
+00016696_004.png,Edema|Infiltration,0.549,True,True,18.87,31.5,0.56,Calcification,0.833,True,0.994,0.0,0.0,1.0,Edema,61.1,ÉLEVÉ,0.745,0.994,1.0
+00011023_004.png,Cardiomegaly|Infiltration,0.544,True,True,17.14,31.5,0.0,Normal,0.678,True,0.322,0.0,1.0,0.0,Cardiomegaly,49.0,ÉLEVÉ,0.721,0.322,0.0
+00002224_003.png,Edema,0.455,True,False,16.1,31.86,0.0,Calcification,0.916,True,0.934,0.0,0.0,1.0,Edema,53.5,ÉLEVÉ,0.276,0.934,1.0
+00000109_002.png,No Finding,0.57,True,True,17.96,31.48,0.79,Normal,0.985,True,0.015,1.0,0.0,0.0,Normal,12.9,FAIBLE,0.852,0.015,0.0
+00018254_016.png,Edema,0.434,True,False,15.26,31.5,0.0,Calcification,0.855,True,0.97,0.0,0.0,1.0,Edema,52.3,ÉLEVÉ,0.172,0.97,1.0
+00018724_019.png,Edema|Effusion|Infiltration,-0.05,False,False,0.0,31.5,0.9,Calcification,0.909,True,0.986,0.0,0.0,1.0,Edema,49.9,INDÉTERMINÉ,0.0,0.986,1.0
+00000823_005.png,Cardiomegaly,0.529,True,True,16.96,32.09,0.0,Normal,0.997,True,0.003,0.0,1.0,0.0,Cardiomegaly,44.7,ÉLEVÉ,0.643,0.003,0.0
+00016924_000.png,No Finding,0.419,True,False,13.45,32.09,0.0,Normal,0.764,True,0.236,0.997,0.003,0.0,Normal,3.9,FAIBLE,0.096,0.236,0.0
+00022993_018.png,Edema|Pneumonia,0.463,True,False,16.34,31.86,0.0,Calcification,0.809,True,0.875,0.002,0.001,0.997,Edema,53.4,ÉLEVÉ,0.315,0.875,0.997
+00013641_006.png,Edema,0.554,True,True,19.03,31.5,0.0,Calcification,0.472,False,0.905,0.0,0.0,1.0,Edema,60.6,ÉLEVÉ,0.771,0.905,1.0
+00013992_028.png,Edema|Infiltration|Pneumonia,0.661,True,True,22.39,31.5,0.0,Calcification,0.964,True,0.999,0.0,0.013,0.987,Edema,64.9,ÉLEVÉ,1.0,0.999,0.987
+00020703_008.png,Edema|Effusion|Mass,0.622,True,True,19.97,32.09,0.7,Calcification,0.951,True,0.974,0.0,0.001,0.999,Edema,64.7,ÉLEVÉ,1.0,0.974,0.999
+00006493_000.png,Cardiomegaly,0.508,True,True,16.0,31.5,0.31,Normal,0.723,True,0.277,0.999,0.0,0.0,Normal,10.9,FAIBLE,0.539,0.277,0.0
+00021035_026.png,No Finding,0.135,False,False,5.89,31.86,0.0,Normal,0.991,True,0.009,0.951,0.0,0.049,Normal,2.1,INDÉTERMINÉ,0.0,0.009,0.049
+00001096_001.png,Cardiomegaly|Effusion,0.573,True,True,16.01,27.95,1.09,Normal,0.979,True,0.021,0.008,0.991,0.001,Cardiomegaly,47.9,ÉLEVÉ,0.865,0.021,0.001
+00005372_008.png,Atelectasis|Edema,0.552,True,True,19.29,32.06,0.27,Calcification,0.93,True,0.951,0.0,0.0,1.0,Edema,60.9,ÉLEVÉ,0.758,0.951,1.0
+00010456_012.png,No Finding,0.523,True,True,18.25,31.86,0.0,Normal,0.871,True,0.129,0.145,0.046,0.809,Edema,44.5,ÉLEVÉ,0.615,0.129,0.809
+00028974_017.png,Atelectasis|Cardiomegaly|Effusion|Infiltration,0.51,True,True,17.84,31.86,1.07,Normal,0.913,True,0.087,0.965,0.034,0.001,Normal,10.4,FAIBLE,0.549,0.087,0.001
+00013171_000.png,No Finding,0.474,True,False,13.73,28.98,0.0,Normal,0.996,True,0.004,0.971,0.029,0.0,Normal,6.6,FAIBLE,0.37,0.004,0.0
+00019407_004.png,Edema|Infiltration|Nodule,0.236,False,False,9.02,31.5,1.21,Calcification,0.789,True,0.989,0.0,0.0,1.0,Edema,49.9,INDÉTERMINÉ,0.0,0.989,1.0
+00017450_000.png,No Finding,0.24,False,False,7.69,32.09,0.27,Normal,0.51,False,0.49,0.933,0.057,0.01,Normal,7.3,INDÉTERMINÉ,0.0,0.49,0.01
+00002227_005.png,Edema|Effusion|Infiltration|Mass,0.469,True,False,12.31,26.27,0.0,Calcification,0.674,True,0.705,0.039,0.001,0.96,Edema,50.7,ÉLEVÉ,0.344,0.705,0.96
+00015202_000.png,Cardiomegaly,0.554,True,True,19.03,31.5,0.0,Calcification,0.596,False,0.604,0.0,1.0,0.0,Cardiomegaly,52.6,ÉLEVÉ,0.771,0.604,0.0
+00008752_003.png,No Finding,0.494,True,False,17.45,32.06,0.0,Calcification,0.852,True,0.853,1.0,0.0,0.0,Normal,15.6,FAIBLE,0.471,0.853,0.0
+00016400_001.png,No Finding,0.474,True,False,13.96,29.45,0.73,Calcification,0.746,True,0.784,0.915,0.044,0.041,Normal,16.6,FAIBLE,0.37,0.784,0.041
+00026451_052.png,No Finding,0.494,True,False,17.34,31.86,0.02,Calcification,0.972,True,0.998,0.484,0.005,0.511,Edema,37.7,ÉLEVÉ,0.471,0.998,0.511
+00009700_000.png,No Finding,0.349,True,False,11.2,32.09,0.03,Normal,0.986,True,0.014,0.03,0.97,0.0,Cardiomegaly,34.1,MODÉRÉ,0.0,0.014,0.0
+00017425_005.png,Edema|Mass,0.44,True,False,15.42,31.5,0.0,Calcification,0.659,True,0.666,0.0,0.0,1.0,Edema,49.6,ÉLEVÉ,0.198,0.666,1.0
+00011255_002.png,No Finding,0.367,True,False,11.78,32.09,0.0,Normal,0.98,True,0.02,1.0,0.0,0.0,Normal,0.2,FAIBLE,0.0,0.02,0.0
+00005372_017.png,No Finding,0.44,True,False,15.7,32.06,0.1,Normal,0.551,False,0.449,0.001,0.0,0.999,Edema,47.4,ÉLEVÉ,0.198,0.449,0.999
+00015119_000.png,Atelectasis|Cardiomegaly,0.531,True,True,18.29,31.5,0.0,Calcification,0.994,True,0.995,0.0,1.0,0.0,Cardiomegaly,54.8,ÉLEVÉ,0.654,0.995,0.0
+00017964_001.png,No Finding,0.542,True,True,16.88,31.17,0.54,Normal,0.681,True,0.319,0.96,0.037,0.003,Normal,15.2,FAIBLE,0.708,0.319,0.003
+00013616_046.png,Edema|Infiltration|Pneumonia,0.617,True,True,21.0,31.5,2.4,Calcification,0.709,True,0.998,0.002,0.731,0.268,Cardiomegaly,61.3,ÉLEVÉ,1.0,0.998,0.268
+00007735_025.png,Cardiomegaly,0.572,True,True,19.61,31.5,0.0,Calcification,0.835,True,0.873,0.0,1.0,0.0,Cardiomegaly,56.7,ÉLEVÉ,0.862,0.873,0.0
+00023852_000.png,No Finding,0.513,True,True,16.46,32.09,0.0,Normal,0.952,True,0.048,0.03,0.955,0.015,Cardiomegaly,43.0,ÉLEVÉ,0.565,0.048,0.015
+00028976_000.png,No Finding,0.539,True,True,12.73,23.61,0.0,Normal,0.987,True,0.013,0.99,0.0,0.01,Normal,11.0,FAIBLE,0.695,0.013,0.01
+00018680_012.png,No Finding,0.458,True,False,14.71,32.09,0.55,Calcification,0.59,False,0.601,0.998,0.002,0.0,Normal,10.4,FAIBLE,0.292,0.601,0.0
+00002704_017.png,Cardiomegaly|Infiltration,0.489,True,False,16.98,31.5,0.65,Calcification,0.569,False,0.935,0.0,1.0,0.0,Cardiomegaly,51.0,ÉLEVÉ,0.445,0.935,0.0
+00026363_003.png,No Finding,0.518,True,True,18.09,31.86,1.03,Normal,0.825,True,0.175,0.168,0.07,0.762,Edema,43.5,ÉLEVÉ,0.589,0.175,0.762
+00017625_001.png,Edema,0.296,False,False,10.91,31.5,0.0,Calcification,0.987,True,0.987,0.0,0.023,0.977,Edema,49.8,INDÉTERMINÉ,0.0,0.987,0.977
+00022572_065.png,Cardiomegaly|Effusion|Pleural_Thickening,0.641,True,True,18.87,29.45,1.13,Calcification,0.827,True,0.843,0.0,0.999,0.0,Cardiomegaly,58.4,ÉLEVÉ,1.0,0.843,0.0
+00000211_019.png,Atelectasis|Cardiomegaly|Infiltration|Pneumothorax,0.578,True,True,19.77,31.5,0.0,Calcification,0.76,True,0.814,0.028,0.957,0.015,Cardiomegaly,55.5,ÉLEVÉ,0.888,0.814,0.015
+00016167_008.png,Edema,0.669,True,True,22.9,31.86,0.89,Calcification,0.8,True,0.821,0.001,0.002,0.998,Edema,63.2,ÉLEVÉ,1.0,0.821,0.998
+00026502_000.png,No Finding,0.539,True,True,14.55,26.98,0.0,Normal,0.984,True,0.016,0.086,0.914,0.0,Cardiomegaly,42.6,ÉLEVÉ,0.695,0.016,0.0
+00009892_045.png,No Finding,0.101,False,False,3.9,25.8,0.0,Calcification,0.821,True,0.978,0.802,0.006,0.191,Normal,17.7,INDÉTERMINÉ,0.0,0.978,0.191
+00017138_032.png,Edema|Effusion,0.427,True,False,15.01,31.5,0.63,Calcification,0.562,False,0.813,0.0,0.001,0.999,Edema,50.1,ÉLEVÉ,0.133,0.813,0.999
+00021200_004.png,No Finding,0.476,True,False,16.61,31.57,0.0,Normal,0.85,True,0.15,0.0,1.0,0.0,Cardiomegaly,42.2,ÉLEVÉ,0.38,0.15,0.0
+00013249_041.png,Cardiomegaly,0.57,True,True,15.99,25.8,0.0,Calcification,0.715,True,0.979,0.0,1.0,0.0,Cardiomegaly,57.5,ÉLEVÉ,0.849,0.979,0.0
+00014223_012.png,Edema|Infiltration|Pneumonia,0.166,False,False,5.58,25.8,0.0,Calcification,0.667,True,0.687,0.001,0.001,0.998,Edema,46.8,INDÉTERMINÉ,0.0,0.687,0.998
+00018840_041.png,Edema|Infiltration|Pneumonia,0.356,True,False,12.55,30.9,0.12,Normal,0.958,True,0.042,0.0,0.009,0.99,Edema,40.4,ÉLEVÉ,0.0,0.042,0.99
+00020326_011.png,Atelectasis|Edema|Infiltration,0.453,True,False,16.01,31.86,1.5,Calcification,0.658,True,0.709,0.0,0.0,1.0,Edema,51.0,ÉLEVÉ,0.263,0.709,1.0
+00000787_002.png,Cardiomegaly,0.578,True,True,18.55,32.09,0.0,Normal,0.938,True,0.062,0.003,0.997,0.0,Cardiomegaly,48.9,ÉLEVÉ,0.891,0.062,0.0
+00013670_147.png,Cardiomegaly|Effusion,0.598,True,True,20.43,31.5,0.0,Calcification,0.612,True,0.681,0.0,1.0,0.0,Cardiomegaly,56.7,ÉLEVÉ,0.992,0.681,0.0
+00027389_003.png,Cardiomegaly,0.495,True,False,15.88,32.09,0.18,Calcification,0.966,True,0.987,0.069,0.054,0.877,Edema,53.9,ÉLEVÉ,0.474,0.987,0.877
+00009722_000.png,Cardiomegaly,0.617,True,True,19.44,31.5,0.14,Normal,0.66,True,0.34,0.018,0.981,0.001,Cardiomegaly,52.8,ÉLEVÉ,1.0,0.34,0.001
+00003990_004.png,Cardiomegaly|Infiltration|Pleural_Thickening,0.512,True,True,17.72,31.5,0.02,Aortic_enlargement,0.906,True,0.996,0.0,0.998,0.002,Cardiomegaly,53.4,ÉLEVÉ,0.562,0.996,0.002
+00014258_000.png,No Finding,0.385,True,False,12.37,32.09,0.0,Normal,0.99,True,0.01,0.995,0.0,0.004,Normal,0.3,FAIBLE,0.0,0.01,0.004
+00026346_001.png,Edema|Pneumonia,0.583,True,True,20.16,31.86,0.0,Calcification,0.712,True,0.804,0.006,0.001,0.992,Edema,61.5,ÉLEVÉ,0.914,0.804,0.992
+00009863_035.png,Edema|Pneumonia,0.46,True,False,16.08,31.5,0.11,Calcification,0.948,True,0.973,0.012,0.127,0.861,Edema,53.2,ÉLEVÉ,0.302,0.973,0.861
+00001944_000.png,No Finding,0.453,True,False,14.27,31.5,0.01,Normal,0.942,True,0.058,1.0,0.0,0.0,Normal,4.6,FAIBLE,0.266,0.058,0.0
+00018187_026.png,No Finding,0.544,True,True,18.7,31.5,0.0,Calcification,0.762,True,0.77,0.0,0.0,1.0,Edema,58.5,ÉLEVÉ,0.719,0.77,1.0
+00017670_005.png,Edema|Infiltration|Mass,0.521,True,True,16.71,32.09,0.0,Normal,0.654,True,0.346,0.794,0.017,0.189,Normal,20.7,FAIBLE,0.604,0.346,0.189
+00011827_003.png,Atelectasis|Cardiomegaly|Consolidation|Effusion|Infiltration,0.534,True,True,14.05,26.32,0.0,Normal,0.84,True,0.16,0.0,1.0,0.0,Cardiomegaly,46.6,ÉLEVÉ,0.669,0.16,0.0
+00004526_020.png,Cardiomegaly,0.523,True,True,15.99,30.54,0.0,Normal,0.963,True,0.037,0.002,0.997,0.0,Cardiomegaly,44.5,ÉLEVÉ,0.617,0.037,0.0
+00009877_003.png,No Finding,0.513,True,True,15.44,30.09,0.0,Normal,0.989,True,0.011,0.963,0.036,0.0,Normal,9.9,FAIBLE,0.565,0.011,0.0
+00005900_000.png,Cardiomegaly,0.516,True,True,13.31,25.8,0.98,Normal,0.975,True,0.025,0.012,0.988,0.0,Cardiomegaly,43.5,ÉLEVÉ,0.578,0.025,0.0
+00013807_005.png,Edema,-0.05,False,False,0.0,31.5,0.0,Calcification,0.833,True,0.886,0.015,0.0,0.985,Edema,48.3,INDÉTERMINÉ,0.0,0.886,0.985
+00020213_045.png,Atelectasis|Cardiomegaly|Consolidation|Effusion|Infiltration|Mass|Pleural_Thickening,0.523,True,True,18.25,31.86,0.08,Calcification,0.981,True,0.988,0.274,0.001,0.725,Edema,48.1,ÉLEVÉ,0.615,0.988,0.725
+00020865_001.png,Cardiomegaly|Infiltration,0.552,True,True,15.15,27.43,0.0,Normal,0.76,True,0.24,0.0,1.0,0.0,Cardiomegaly,48.8,ÉLEVÉ,0.76,0.24,0.0
+00021420_015.png,Edema,0.21,False,False,8.2,31.5,0.05,Calcification,0.71,True,0.969,0.0,0.007,0.993,Edema,49.7,INDÉTERMINÉ,0.0,0.969,0.993
+00021163_002.png,Consolidation|Edema|Infiltration,0.46,True,False,16.26,31.86,0.79,Normal,0.904,True,0.096,0.004,0.052,0.944,Edema,45.1,ÉLEVÉ,0.302,0.096,0.944
+00021772_006.png,Consolidation|Edema|Pleural_Thickening,0.364,True,False,13.12,31.69,0.81,Calcification,0.924,True,0.936,0.013,0.002,0.984,Edema,48.8,ÉLEVÉ,0.0,0.936,0.984
+00003610_015.png,Cardiomegaly,0.536,True,True,16.9,31.5,0.0,Normal,0.946,True,0.054,0.0,1.0,0.0,Cardiomegaly,45.8,ÉLEVÉ,0.682,0.054,0.0
+00015293_000.png,Edema,0.512,True,True,17.72,31.5,0.48,Calcification,0.855,True,0.898,0.001,0.003,0.997,Edema,57.4,ÉLEVÉ,0.562,0.898,0.997
+00017701_002.png,Edema,0.486,True,False,17.09,31.86,0.0,Normal,0.927,True,0.073,0.0,0.0,1.0,Edema,47.2,ÉLEVÉ,0.432,0.073,1.0
+00017650_001.png,No Finding,0.486,True,False,16.9,31.5,0.46,Normal,0.904,True,0.096,0.0,0.0,1.0,Edema,47.4,ÉLEVÉ,0.432,0.096,1.0
+00007420_006.png,No Finding,0.206,False,False,5.59,27.18,0.0,Normal,0.998,True,0.002,1.0,0.0,0.0,Normal,0.0,INDÉTERMINÉ,0.0,0.002,0.0
+00018972_005.png,Edema|Infiltration|Pneumonia,0.294,False,False,10.83,31.5,0.0,Calcification,0.828,True,0.95,0.0,0.0,1.0,Edema,49.5,INDÉTERMINÉ,0.0,0.95,1.0
+00006052_001.png,No Finding,0.612,True,True,15.79,25.8,1.82,Normal,0.658,True,0.342,0.999,0.0,0.0,Normal,18.4,FAIBLE,1.0,0.342,0.0
+00016175_009.png,Cardiomegaly|Effusion|Infiltration|Pneumothorax,0.359,True,False,10.55,25.8,0.0,Normal,0.965,True,0.035,0.0,0.997,0.003,Cardiomegaly,35.4,ÉLEVÉ,0.0,0.035,0.003
+00013993_064.png,Edema,-0.05,False,False,0.0,31.5,0.0,Calcification,0.987,True,1.0,0.0,0.002,0.998,Edema,50.0,INDÉTERMINÉ,0.0,1.0,0.998
+00016900_009.png,No Finding,0.533,True,True,18.58,31.86,0.0,Normal,0.94,True,0.06,0.98,0.005,0.015,Normal,11.4,FAIBLE,0.667,0.06,0.015
+00020922_000.png,Cardiomegaly,0.576,True,True,18.34,31.86,0.92,Normal,0.775,True,0.225,0.048,0.839,0.113,Cardiomegaly,49.3,ÉLEVÉ,0.878,0.225,0.113
+00009932_004.png,Cardiomegaly,0.489,True,False,16.98,31.5,0.15,Calcification,0.891,True,0.935,0.0,1.0,0.0,Cardiomegaly,51.0,ÉLEVÉ,0.445,0.935,0.0
+00020945_058.png,No Finding,0.513,True,True,17.92,31.86,0.98,Calcification,0.656,True,0.742,0.626,0.003,0.371,Normal,30.8,MODÉRÉ,0.563,0.742,0.371
+00027108_000.png,Cardiomegaly|Effusion,0.531,True,True,18.5,31.86,0.76,Calcification,0.982,True,0.998,0.943,0.004,0.054,Normal,22.1,FAIBLE,0.654,0.998,0.054
+00015768_004.png,Cardiomegaly,0.531,True,True,18.29,31.5,1.05,Normal,0.75,True,0.25,0.0,1.0,0.0,Cardiomegaly,47.3,ÉLEVÉ,0.654,0.25,0.0
+00000661_001.png,Cardiomegaly|Infiltration,0.724,True,True,22.8,31.5,1.71,Calcification,0.657,True,0.694,0.001,0.999,0.0,Cardiomegaly,56.9,ÉLEVÉ,1.0,0.694,0.0
+00019271_049.png,No Finding,0.486,True,False,17.09,31.86,1.94,Calcification,0.871,True,0.986,0.02,0.002,0.978,Edema,55.5,ÉLEVÉ,0.432,0.986,0.978
+00001418_000.png,No Finding,0.253,False,False,7.01,27.73,0.0,Normal,0.936,True,0.064,1.0,0.0,0.0,Normal,0.6,INDÉTERMINÉ,0.0,0.064,0.0
+00013461_011.png,Edema|Pneumonia,0.312,True,False,11.4,31.5,0.0,Calcification,0.987,True,0.993,0.0,0.0,1.0,Edema,49.9,ÉLEVÉ,0.0,0.993,1.0
+00016568_010.png,Edema|Infiltration|Mass|Pneumonia,0.33,True,False,11.98,31.5,0.0,Normal,0.694,True,0.306,0.0,0.0,1.0,Edema,43.0,ÉLEVÉ,0.0,0.306,1.0
+00005778_014.png,No Finding,0.484,True,False,15.26,31.5,0.0,Normal,0.7,True,0.3,0.65,0.342,0.009,Normal,21.6,FAIBLE,0.422,0.3,0.009
+00013205_005.png,Edema,0.38,True,False,13.54,31.5,0.0,Normal,0.884,True,0.116,0.001,0.0,0.999,Edema,41.1,ÉLEVÉ,0.0,0.116,0.999
+00000032_021.png,Cardiomegaly,0.58,True,True,19.85,31.5,0.07,Calcification,0.969,True,0.991,0.018,0.981,0.0,Cardiomegaly,57.8,ÉLEVÉ,0.901,0.991,0.0
+00000825_003.png,Cardiomegaly,0.565,True,True,17.8,31.5,1.25,Calcification,0.966,True,0.983,0.017,0.979,0.004,Cardiomegaly,56.6,ÉLEVÉ,0.826,0.983,0.004
+00021212_010.png,Cardiomegaly|Effusion|Emphysema,0.581,True,True,17.2,29.62,0.37,Normal,0.757,True,0.243,0.002,0.997,0.001,Cardiomegaly,50.9,ÉLEVÉ,0.904,0.243,0.001
+00014402_000.png,No Finding,0.382,True,False,13.62,31.5,0.0,Calcification,0.987,True,0.993,1.0,0.0,0.0,Normal,9.9,FAIBLE,0.0,0.993,0.0
+00005759_018.png,No Finding,0.46,True,False,16.08,31.5,0.79,Calcification,0.974,True,0.996,0.032,0.001,0.967,Edema,53.2,ÉLEVÉ,0.302,0.996,0.967
+00027797_000.png,Cardiomegaly,0.654,True,True,19.25,29.45,0.06,Normal,0.729,True,0.271,0.775,0.203,0.022,Normal,25.7,MODÉRÉ,1.0,0.271,0.022
+00006218_001.png,Cardiomegaly|Effusion,0.557,True,True,16.94,30.39,0.0,Normal,0.97,True,0.03,0.899,0.095,0.005,Normal,15.6,FAIBLE,0.786,0.03,0.005
+00020042_006.png,Cardiomegaly,0.429,True,False,14.79,30.86,0.0,Normal,0.771,True,0.229,1.0,0.0,0.0,Normal,4.5,FAIBLE,0.146,0.229,0.0
+00026033_000.png,No Finding,0.526,True,True,16.88,32.09,0.42,Normal,0.991,True,0.009,0.004,0.996,0.0,Cardiomegaly,44.4,ÉLEVÉ,0.63,0.009,0.0
+00022719_000.png,Cardiomegaly|Effusion,0.602,True,True,15.95,26.52,1.2,Normal,0.869,True,0.131,0.049,0.947,0.004,Cardiomegaly,49.6,ÉLEVÉ,1.0,0.131,0.004
+00029805_001.png,Cardiomegaly|Effusion|Infiltration|Pleural_Thickening,0.705,True,True,24.06,31.86,1.71,Calcification,0.918,True,0.941,0.0,1.0,0.0,Cardiomegaly,59.4,ÉLEVÉ,1.0,0.941,0.0
+00008291_012.png,Edema,0.546,True,True,18.79,31.5,1.24,Calcification,0.948,True,0.991,0.127,0.004,0.869,Edema,55.8,ÉLEVÉ,0.732,0.991,0.869
+00000211_018.png,Cardiomegaly|Effusion|Pneumonia,-0.05,False,False,0.0,31.5,0.29,Calcification,0.873,True,0.937,0.0,1.0,0.0,Cardiomegaly,44.4,INDÉTERMINÉ,0.0,0.937,0.0
+00001032_000.png,No Finding,0.555,True,True,14.57,26.27,1.22,Normal,0.923,True,0.077,1.0,0.0,0.0,Normal,12.4,FAIBLE,0.773,0.077,0.0
+00021663_007.png,Atelectasis|Cardiomegaly,0.573,True,True,16.87,29.45,0.04,Normal,0.907,True,0.093,0.004,0.994,0.001,Cardiomegaly,48.7,ÉLEVÉ,0.865,0.093,0.001
+00003029_014.png,No Finding,0.401,True,False,14.35,31.86,0.0,Calcification,0.826,True,0.9,0.998,0.0,0.002,Normal,9.1,FAIBLE,0.003,0.9,0.002
+00009233_000.png,No Finding,0.216,False,False,6.13,28.38,0.0,Normal,0.759,True,0.241,0.993,0.0,0.006,Normal,2.7,INDÉTERMINÉ,0.0,0.241,0.006
+00007442_010.png,Edema|Infiltration|Pneumonia,0.486,True,False,17.2,32.06,0.0,Normal,0.796,True,0.204,0.0,0.111,0.889,Edema,48.0,ÉLEVÉ,0.432,0.204,0.889
+00022322_000.png,Cardiomegaly,0.534,True,True,14.71,27.56,0.0,Normal,0.965,True,0.035,0.959,0.039,0.002,Normal,11.9,FAIBLE,0.669,0.035,0.002
+00009867_005.png,No Finding,0.484,True,False,16.82,31.5,0.0,Calcification,0.969,True,0.98,0.76,0.002,0.239,Normal,25.7,MODÉRÉ,0.419,0.98,0.239
+00028462_000.png,No Finding,0.516,True,True,15.19,29.45,0.0,Calcification,0.79,True,0.908,0.99,0.004,0.006,Normal,18.1,FAIBLE,0.578,0.908,0.006
+00013601_025.png,Cardiomegaly|Effusion,0.731,True,True,24.61,31.5,0.0,Calcification,0.979,True,1.0,0.016,0.959,0.025,Cardiomegaly,59.6,ÉLEVÉ,1.0,1.0,0.025
+00004410_000.png,No Finding,0.544,True,True,17.45,32.06,0.0,Normal,0.846,True,0.154,0.995,0.002,0.002,Normal,12.5,FAIBLE,0.721,0.154,0.002
+00011237_056.png,No Finding,0.499,True,False,17.31,31.5,0.0,Calcification,0.866,True,0.886,0.005,0.011,0.984,Edema,56.1,ÉLEVÉ,0.497,0.886,0.984
+00005249_000.png,Cardiomegaly,0.661,True,True,21.21,32.06,1.47,Normal,0.714,True,0.286,0.107,0.891,0.002,Cardiomegaly,49.1,ÉLEVÉ,1.0,0.286,0.002
+00024102_000.png,No Finding,0.589,True,True,16.1,27.35,0.24,Normal,0.998,True,0.002,1.0,0.0,0.0,Normal,14.2,FAIBLE,0.943,0.002,0.0
+00016038_000.png,Cardiomegaly|Effusion,0.542,True,True,17.38,32.09,0.0,Normal,0.923,True,0.077,0.003,0.997,0.0,Cardiomegaly,46.3,ÉLEVÉ,0.708,0.077,0.0
+00010475_013.png,Edema|Infiltration,0.445,True,False,15.59,31.5,0.0,Normal,0.976,True,0.024,0.485,0.506,0.008,Cardiomegaly,21.7,FAIBLE,0.224,0.024,0.008
+00004581_002.png,No Finding,0.471,True,False,15.13,32.09,0.0,Normal,0.952,True,0.048,1.0,0.0,0.0,Normal,5.8,FAIBLE,0.357,0.048,0.0
+00018972_008.png,Cardiomegaly|Consolidation|Effusion,0.476,True,False,16.57,31.5,0.0,Calcification,0.472,False,0.529,0.004,0.928,0.068,Cardiomegaly,46.2,ÉLEVÉ,0.38,0.529,0.068
+00027357_014.png,Cardiomegaly|Effusion|Infiltration,0.546,True,True,19.0,31.86,0.0,Normal,0.974,True,0.026,0.004,0.836,0.16,Cardiomegaly,46.9,ÉLEVÉ,0.732,0.026,0.16
+00024175_001.png,No Finding,0.51,True,True,16.08,31.5,0.0,Normal,0.998,True,0.002,1.0,0.0,0.0,Normal,8.3,FAIBLE,0.552,0.002,0.0
+00029373_000.png,Cardiomegaly,0.46,True,False,16.26,31.86,1.06,Calcification,0.834,True,0.859,0.595,0.041,0.364,Normal,29.1,MODÉRÉ,0.302,0.859,0.364
+00004893_063.png,Cardiomegaly,0.427,True,False,15.01,31.5,0.0,Calcification,0.756,True,0.943,0.01,0.986,0.005,Cardiomegaly,46.1,ÉLEVÉ,0.133,0.943,0.005
+00005762_013.png,Edema|Effusion|Infiltration,0.555,True,True,17.47,31.5,0.63,Normal,0.811,True,0.189,0.001,0.0,0.999,Edema,53.5,ÉLEVÉ,0.773,0.189,0.999
+00010815_012.png,No Finding,0.474,True,False,15.21,32.09,1.26,Normal,0.541,False,0.459,0.125,0.856,0.019,Cardiomegaly,40.9,ÉLEVÉ,0.37,0.459,0.019
+00004824_016.png,No Finding,0.547,True,True,14.89,27.22,0.0,Calcification,0.745,True,0.754,0.214,0.434,0.351,Cardiomegaly,47.8,ÉLEVÉ,0.734,0.754,0.351
+00001724_006.png,No Finding,0.398,True,False,12.55,31.5,0.0,Normal,0.963,True,0.037,1.0,0.0,0.0,Normal,0.4,FAIBLE,0.0,0.037,0.0
+00009015_000.png,No Finding,0.562,True,True,17.72,31.5,1.11,Calcification,0.4,False,0.719,1.0,0.0,0.0,Normal,19.4,FAIBLE,0.812,0.719,0.0
+00010544_023.png,Edema|Pneumonia,0.208,False,False,8.12,31.5,0.87,Calcification,0.559,False,0.982,0.054,0.002,0.945,Edema,47.7,INDÉTERMINÉ,0.0,0.982,0.945
+00002529_002.png,Edema|Effusion|Infiltration,0.377,True,False,13.45,31.5,0.0,Calcification,0.871,True,0.974,0.004,0.045,0.951,Edema,49.4,ÉLEVÉ,0.0,0.974,0.951
+00020790_000.png,No Finding,0.317,True,False,8.54,23.27,0.0,Calcification,0.934,True,0.941,0.823,0.115,0.062,Normal,15.9,FAIBLE,0.0,0.941,0.062
+00005532_037.png,Cardiomegaly|Consolidation,0.586,True,True,15.12,25.8,0.06,Normal,0.606,True,0.394,0.001,0.999,0.0,Cardiomegaly,52.9,ÉLEVÉ,0.93,0.394,0.0
+00030573_003.png,Edema|Infiltration,0.526,True,True,18.34,31.86,0.0,Normal,0.984,True,0.016,0.001,0.005,0.995,Edema,49.5,ÉLEVÉ,0.628,0.016,0.995
+00016087_000.png,No Finding,0.497,True,False,15.96,32.09,0.0,Normal,0.795,True,0.205,0.993,0.001,0.006,Normal,9.6,FAIBLE,0.487,0.205,0.006
+00018822_000.png,No Finding,0.464,True,False,12.78,27.56,0.04,Normal,0.999,True,0.001,1.0,0.0,0.0,Normal,4.8,FAIBLE,0.318,0.001,0.0
+00030279_007.png,Cardiomegaly|Consolidation,0.703,True,True,23.98,31.86,0.22,Calcification,0.969,True,0.982,0.027,0.434,0.538,Edema,61.6,ÉLEVÉ,1.0,0.982,0.538
+00002655_003.png,Edema,0.549,True,True,19.2,32.06,1.06,Aortic_enlargement,0.573,False,0.982,0.259,0.463,0.278,Cardiomegaly,48.3,ÉLEVÉ,0.745,0.982,0.278
+00011503_001.png,No Finding,0.521,True,True,14.24,27.35,0.87,Normal,0.98,True,0.02,1.0,0.0,0.0,Normal,9.3,FAIBLE,0.604,0.02,0.0
+00021970_002.png,Edema|Infiltration,0.414,True,False,14.77,31.86,0.0,Normal,0.767,True,0.233,0.013,0.017,0.97,Edema,42.8,ÉLEVÉ,0.068,0.233,0.97
+00014149_020.png,Edema|Infiltration|Pneumonia,0.502,True,True,17.39,31.5,0.14,Calcification,0.783,True,0.801,0.0,0.001,0.999,Edema,55.7,ÉLEVÉ,0.51,0.801,0.999
+00023156_016.png,No Finding,0.388,True,False,13.94,31.86,0.0,Normal,0.778,True,0.222,0.229,0.013,0.758,Edema,33.0,MODÉRÉ,0.0,0.222,0.758
+00013891_002.png,No Finding,0.476,True,False,16.57,31.5,0.0,Normal,0.967,True,0.033,0.998,0.0,0.002,Normal,6.1,FAIBLE,0.38,0.033,0.002
+00010544_024.png,Edema|Infiltration,0.276,False,False,10.25,31.5,0.08,Calcification,0.984,True,0.999,0.0,0.0,1.0,Edema,50.0,INDÉTERMINÉ,0.0,0.999,1.0
+00020369_000.png,No Finding,0.339,True,False,10.86,32.09,1.49,Normal,0.995,True,0.005,1.0,0.0,0.0,Normal,0.1,FAIBLE,0.0,0.005,0.0
+00017086_002.png,No Finding,0.536,True,True,17.21,32.09,0.27,Calcification,0.882,True,0.91,0.002,0.975,0.023,Cardiomegaly,54.4,ÉLEVÉ,0.682,0.91,0.023
+00001291_000.png,No Finding,0.383,True,False,11.49,30.01,0.0,Normal,0.999,True,0.001,0.995,0.005,0.0,Normal,0.2,FAIBLE,0.0,0.001,0.0
+00027415_006.png,Atelectasis|Edema|Pneumonia,0.684,True,True,23.4,31.86,0.83,Calcification,0.927,True,0.99,0.002,0.93,0.068,Cardiomegaly,60.2,ÉLEVÉ,1.0,0.99,0.068
+00014009_000.png,No Finding,0.247,False,False,7.94,32.09,0.0,Normal,0.985,True,0.015,1.0,0.0,0.0,Normal,0.1,INDÉTERMINÉ,0.0,0.015,0.0
+00021610_029.png,No Finding,-0.05,False,False,0.0,31.61,0.0,Normal,0.958,True,0.042,0.227,0.0,0.773,Edema,31.3,INDÉTERMINÉ,0.0,0.042,0.773
+00000459_056.png,Cardiomegaly|Effusion|Infiltration,0.442,True,False,15.68,31.86,1.12,Calcification,0.587,False,0.76,0.001,0.999,0.0,Cardiomegaly,45.7,ÉLEVÉ,0.211,0.76,0.0
+00013670_152.png,Consolidation|Edema|Effusion,0.604,True,True,20.59,31.5,0.0,Calcification,0.957,True,0.986,0.001,0.759,0.239,Cardiomegaly,61.0,ÉLEVÉ,1.0,0.986,0.239
+00028871_000.png,Cardiomegaly|Effusion|Fibrosis,0.62,True,True,18.25,29.44,0.63,Calcification,0.87,True,0.882,0.04,0.959,0.0,Cardiomegaly,57.4,ÉLEVÉ,1.0,0.882,0.0
+00008003_000.png,No Finding,0.578,True,True,14.92,25.8,0.99,Normal,0.99,True,0.01,0.999,0.0,0.0,Normal,13.5,FAIBLE,0.891,0.01,0.0
+00029422_004.png,Edema|Infiltration|Pneumonia,0.45,True,False,15.93,31.86,0.0,Normal,0.678,True,0.322,0.002,0.001,0.997,Edema,46.9,ÉLEVÉ,0.25,0.322,0.997
+00010347_003.png,Edema|Infiltration,0.434,True,False,15.26,31.5,0.0,Normal,0.968,True,0.032,0.0,0.0,1.0,Edema,42.9,ÉLEVÉ,0.172,0.032,1.0
+00000001_001.png,Cardiomegaly|Emphysema,0.604,True,True,18.75,31.04,0.51,Calcification,0.967,True,0.982,0.0,1.0,0.0,Cardiomegaly,59.8,ÉLEVÉ,1.0,0.982,0.0
+00015072_011.png,Edema|Infiltration|Pneumonia,0.351,True,False,12.63,31.5,0.94,Calcification,0.768,True,0.948,0.0,0.0,1.0,Edema,49.5,ÉLEVÉ,0.0,0.948,1.0
+00018187_029.png,Cardiomegaly,0.583,True,True,19.93,31.5,0.0,Normal,0.782,True,0.218,0.0,0.997,0.003,Cardiomegaly,50.9,ÉLEVÉ,0.914,0.218,0.003
+00000132_001.png,Consolidation|Edema,0.32,True,False,10.28,32.09,0.0,Calcification,0.985,True,0.987,0.007,0.0,0.993,Edema,49.6,ÉLEVÉ,0.0,0.987,0.993
+00019294_000.png,No Finding,0.562,True,True,14.92,26.52,0.7,Normal,0.97,True,0.03,0.785,0.211,0.004,Normal,20.0,FAIBLE,0.812,0.03,0.004
+00005712_019.png,Edema|Pneumonia,0.466,True,False,16.24,31.5,0.08,Calcification,0.718,True,0.846,0.0,0.003,0.997,Edema,53.4,ÉLEVÉ,0.328,0.846,0.997
+00007223_002.png,No Finding,0.406,True,False,14.61,32.06,0.0,Normal,0.997,True,0.003,0.972,0.002,0.026,Normal,1.6,FAIBLE,0.029,0.003,0.026
+00018644_003.png,Atelectasis|Cardiomegaly|Consolidation|Effusion|Mass|Nodule,0.445,True,False,11.19,25.12,0.2,Normal,0.992,True,0.008,0.552,0.02,0.428,Normal,21.3,FAIBLE,0.227,0.008,0.428
+00013917_038.png,Cardiomegaly|Effusion|Infiltration,0.151,False,False,4.85,32.09,0.0,Calcification,0.955,True,0.963,0.007,0.989,0.005,Cardiomegaly,44.4,INDÉTERMINÉ,0.0,0.963,0.005
+00023048_000.png,Edema,0.489,True,False,17.17,31.86,0.01,Normal,0.656,True,0.344,0.0,0.0,1.0,Edema,50.1,ÉLEVÉ,0.445,0.344,1.0
+00025787_001.png,Edema|Infiltration|Nodule,0.21,False,False,8.3,31.86,0.0,Normal,0.482,False,0.518,0.0,0.0,1.0,Edema,45.2,INDÉTERMINÉ,0.0,0.518,1.0
+00010509_006.png,Edema,0.479,True,False,16.65,31.5,0.96,Normal,0.951,True,0.049,0.004,0.0,0.996,Edema,46.2,ÉLEVÉ,0.393,0.049,0.996
+00018496_009.png,Atelectasis|Cardiomegaly|Effusion,-0.05,False,False,0.0,31.5,1.81,Calcification,0.678,True,0.883,0.996,0.001,0.003,Normal,9.0,INDÉTERMINÉ,0.0,0.883,0.003
+00004833_028.png,No Finding,0.44,True,False,15.7,32.06,0.0,Calcification,0.565,False,0.634,0.004,0.118,0.879,Edema,48.6,ÉLEVÉ,0.198,0.634,0.879
+00030437_000.png,Cardiomegaly|Effusion|Pleural_Thickening,0.265,False,False,10.04,31.86,0.01,Calcification,0.834,True,0.858,0.666,0.004,0.33,Normal,21.9,INDÉTERMINÉ,0.0,0.858,0.33
+00016698_000.png,No Finding,0.44,True,False,15.42,31.5,0.0,Normal,0.828,True,0.172,0.799,0.056,0.145,Normal,12.4,FAIBLE,0.198,0.172,0.145
+00027355_010.png,No Finding,0.437,True,False,15.51,31.86,0.02,Normal,0.851,True,0.149,0.003,0.334,0.663,Edema,42.5,ÉLEVÉ,0.185,0.149,0.663
+00027334_007.png,No Finding,0.508,True,True,14.96,29.45,0.04,Calcification,0.871,True,0.908,0.007,0.993,0.0,Cardiomegaly,51.9,ÉLEVÉ,0.539,0.908,0.0
+00016410_013.png,Edema|Infiltration,0.361,True,False,12.96,31.5,0.21,Normal,0.597,False,0.403,0.0,0.0,1.0,Edema,44.0,ÉLEVÉ,0.0,0.403,1.0
+00020156_006.png,Consolidation|Edema|Infiltration,0.499,True,False,17.31,31.5,0.41,Calcification,0.869,True,0.884,0.005,0.003,0.992,Edema,56.1,ÉLEVÉ,0.497,0.884,0.992
+00008699_003.png,No Finding,0.463,True,False,16.16,31.5,0.0,Normal,0.83,True,0.17,0.03,0.965,0.005,Cardiomegaly,40.4,ÉLEVÉ,0.315,0.17,0.005
+00009798_015.png,Cardiomegaly,0.499,True,False,17.31,31.5,0.0,Normal,0.873,True,0.127,0.0,1.0,0.0,Cardiomegaly,43.7,ÉLEVÉ,0.497,0.127,0.0
+00003446_008.png,No Finding,0.471,True,False,16.7,32.06,0.85,Calcification,0.878,True,0.942,0.958,0.0,0.042,Normal,16.4,FAIBLE,0.354,0.942,0.042
+00027247_001.png,No Finding,0.437,True,False,15.51,31.86,0.0,Normal,0.992,True,0.008,0.949,0.001,0.05,Normal,4.9,FAIBLE,0.185,0.008,0.05
+00027706_007.png,Cardiomegaly,0.609,True,True,15.68,25.74,0.96,Calcification,0.827,True,0.835,0.566,0.026,0.408,Normal,40.6,ÉLEVÉ,1.0,0.835,0.408
+00018187_032.png,Cardiomegaly|Consolidation|Effusion,0.317,True,False,11.57,31.5,0.0,Calcification,0.868,True,0.972,0.0,0.023,0.977,Edema,49.6,ÉLEVÉ,0.0,0.972,0.977
+00021784_000.png,No Finding,0.497,True,False,15.96,32.09,0.14,Normal,0.734,True,0.266,0.893,0.003,0.104,Normal,14.2,FAIBLE,0.487,0.266,0.104
+00011985_007.png,Edema|Infiltration,0.486,True,False,16.9,31.5,0.42,Calcification,0.846,True,0.902,0.0,0.0,1.0,Edema,55.5,ÉLEVÉ,0.432,0.902,1.0
+00008745_032.png,Edema|Infiltration,0.523,True,True,18.05,31.5,0.24,Calcification,0.937,True,0.954,0.002,0.001,0.997,Edema,58.7,ÉLEVÉ,0.615,0.954,0.997
+00028766_000.png,Cardiomegaly,0.62,True,True,19.75,31.86,1.02,Normal,0.472,False,0.528,0.457,0.525,0.017,Cardiomegaly,39.4,ÉLEVÉ,1.0,0.528,0.017
+00027442_006.png,No Finding,0.143,False,False,6.14,31.86,0.13,Normal,0.804,True,0.196,0.884,0.027,0.089,Normal,6.5,INDÉTERMINÉ,0.0,0.196,0.089
+00004534_007.png,Cardiomegaly|Infiltration,0.549,True,True,15.12,27.52,0.03,Normal,0.991,True,0.009,0.0,1.0,0.0,Cardiomegaly,46.3,ÉLEVÉ,0.747,0.009,0.0
+00013670_149.png,Cardiomegaly|Infiltration,0.572,True,True,19.61,31.5,0.01,Calcification,0.98,True,0.995,0.004,0.95,0.045,Cardiomegaly,58.0,ÉLEVÉ,0.862,0.995,0.045
+00006808_008.png,Cardiomegaly,0.64,True,True,22.13,32.06,0.0,Calcification,0.741,True,0.813,0.0,1.0,0.0,Cardiomegaly,58.1,ÉLEVÉ,1.0,0.813,0.0
+00013447_010.png,Edema,0.429,True,False,15.09,31.5,0.0,Normal,0.791,True,0.209,0.018,0.013,0.968,Edema,43.5,ÉLEVÉ,0.146,0.209,0.968
+00004911_020.png,Edema|Effusion,0.481,True,False,16.73,31.5,0.0,Normal,0.958,True,0.042,0.0,0.0,0.999,Edema,46.5,ÉLEVÉ,0.406,0.042,0.999
+00029808_003.png,Cardiomegaly|Consolidation|Effusion|Pneumonia,0.37,True,False,10.89,29.45,0.0,Calcification,0.687,True,0.959,0.0,0.0,1.0,Edema,49.6,ÉLEVÉ,0.0,0.959,1.0
+00004911_011.png,Edema|Effusion|Infiltration,0.45,True,False,15.75,31.5,0.0,Calcification,0.979,True,0.996,0.0,0.005,0.995,Edema,53.7,ÉLEVÉ,0.25,0.996,0.995
+00027415_000.png,Atelectasis|Cardiomegaly|Consolidation,0.594,True,True,19.04,32.07,0.0,Aortic_enlargement,0.543,False,0.881,0.0,0.999,0.001,Cardiomegaly,58.3,ÉLEVÉ,0.969,0.881,0.001
+00026810_010.png,Edema|Infiltration,0.578,True,True,19.99,31.86,0.0,Calcification,0.793,True,0.821,0.0,0.0,1.0,Edema,61.5,ÉLEVÉ,0.888,0.821,1.0
+00015768_006.png,Cardiomegaly|Effusion,0.546,True,True,18.79,31.5,0.0,Normal,0.952,True,0.048,0.442,0.556,0.002,Cardiomegaly,31.0,MODÉRÉ,0.732,0.048,0.002
+00021721_000.png,No Finding,0.625,True,True,16.42,26.27,1.68,Normal,0.963,True,0.037,0.005,0.991,0.004,Cardiomegaly,50.2,ÉLEVÉ,1.0,0.037,0.004
+00027907_001.png,Cardiomegaly,0.516,True,True,15.19,29.45,1.39,Aortic_enlargement,0.481,False,0.925,0.002,0.998,0.0,Cardiomegaly,52.9,ÉLEVÉ,0.578,0.925,0.0
+00003405_002.png,No Finding,0.503,True,True,15.83,31.5,0.0,Normal,0.989,True,0.011,0.995,0.004,0.0,Normal,8.0,FAIBLE,0.513,0.011,0.0
+00023211_024.png,Atelectasis|Edema|Infiltration,0.445,True,False,15.76,31.86,0.0,Calcification,0.663,True,0.702,0.0,0.0,1.0,Edema,50.4,ÉLEVÉ,0.224,0.702,1.0
+00020703_022.png,Cardiomegaly|Effusion,0.619,True,True,21.32,31.86,0.36,Calcification,0.734,True,0.845,0.048,0.412,0.54,Edema,59.5,ÉLEVÉ,1.0,0.845,0.54
+00015137_000.png,Edema,0.651,True,True,20.89,32.09,1.13,Normal,0.945,True,0.055,0.009,0.99,0.001,Cardiomegaly,50.2,ÉLEVÉ,1.0,0.055,0.001
+00025290_019.png,Cardiomegaly,0.273,False,False,10.29,31.86,0.02,Normal,0.712,True,0.288,0.008,0.886,0.106,Cardiomegaly,38.1,INDÉTERMINÉ,0.0,0.288,0.106
+00000917_000.png,No Finding,0.487,True,False,12.79,26.27,0.0,Normal,0.996,True,0.004,1.0,0.0,0.0,Normal,6.6,FAIBLE,0.435,0.004,0.0
+00014129_001.png,No Finding,-0.05,False,False,0.0,31.5,0.58,Normal,0.963,True,0.037,0.011,0.001,0.988,Edema,39.9,INDÉTERMINÉ,0.0,0.037,0.988
+00013834_011.png,No Finding,0.539,True,True,16.98,31.5,1.82,Calcification,0.875,True,0.886,1.0,0.0,0.0,Normal,19.3,FAIBLE,0.695,0.886,0.0
+00002381_010.png,Edema|Effusion,0.617,True,True,21.0,31.5,0.0,Normal,0.797,True,0.203,0.01,0.026,0.964,Edema,56.5,ÉLEVÉ,1.0,0.203,0.964
+00014705_005.png,No Finding,-0.05,False,False,0.0,31.86,0.92,Calcification,0.964,True,0.991,0.966,0.0,0.034,Normal,11.3,INDÉTERMINÉ,0.0,0.991,0.034
+00018949_012.png,Edema|Pleural_Thickening,0.419,True,False,14.45,30.82,0.0,Calcification,0.688,True,0.695,0.0,0.0,1.0,Edema,48.4,ÉLEVÉ,0.094,0.695,1.0
+00011632_018.png,Edema,0.575,True,True,19.69,31.5,0.0,Calcification,0.724,True,0.799,0.001,0.007,0.993,Edema,61.1,ÉLEVÉ,0.875,0.799,0.993
+00011915_005.png,Consolidation|Edema|Effusion,0.58,True,True,16.26,25.8,0.43,Calcification,0.804,True,0.868,0.0,0.156,0.844,Edema,61.4,ÉLEVÉ,0.901,0.868,0.844
+00014319_000.png,No Finding,0.508,True,True,13.3,26.19,1.02,Calcification,0.633,True,0.656,0.999,0.001,0.0,Normal,14.7,FAIBLE,0.539,0.656,0.0
+00009064_000.png,No Finding,0.458,True,False,12.28,26.79,0.0,Normal,0.993,True,0.007,1.0,0.0,0.0,Normal,4.4,FAIBLE,0.292,0.007,0.0
+00008365_000.png,Cardiomegaly|Pneumonia,0.51,True,True,17.64,31.5,2.47,Aortic_enlargement,0.83,True,0.99,0.06,0.908,0.031,Cardiomegaly,51.2,ÉLEVÉ,0.549,0.99,0.031
+00013670_019.png,Edema|Infiltration,0.549,True,True,18.87,31.5,0.14,Calcification,0.817,True,0.883,0.0,0.002,0.998,Edema,60.0,ÉLEVÉ,0.745,0.883,0.998
+00021565_023.png,Cardiomegaly,0.591,True,True,20.18,31.5,0.0,Calcification,0.816,True,0.823,0.061,0.126,0.813,Edema,59.4,ÉLEVÉ,0.953,0.823,0.813
+00021610_011.png,Edema|Effusion,0.0,False,False,0.0,31.86,0.0,Calcification,0.847,True,0.922,0.003,0.0,0.997,Edema,49.1,INDÉTERMINÉ,0.0,0.922,0.997
+00002463_004.png,No Finding,0.586,True,True,15.39,26.27,0.0,Normal,0.631,True,0.369,0.969,0.009,0.021,Normal,18.8,FAIBLE,0.93,0.369,0.021
+00003867_011.png,Atelectasis|Edema|Effusion,0.541,True,True,18.62,31.5,1.77,Aortic_enlargement,0.527,False,0.62,0.0,0.0,0.999,Edema,56.8,ÉLEVÉ,0.706,0.62,0.999
+00015495_001.png,No Finding,0.526,True,True,18.13,31.5,0.0,Calcification,0.855,True,0.961,0.962,0.008,0.031,Normal,20.5,FAIBLE,0.628,0.961,0.031
+00016056_000.png,No Finding,0.552,True,True,17.72,32.09,0.01,Normal,0.968,True,0.032,0.011,0.986,0.003,Cardiomegaly,46.3,ÉLEVÉ,0.76,0.032,0.003
+00021530_000.png,No Finding,0.464,True,False,14.77,31.86,0.02,Calcification,0.878,True,0.912,0.972,0.012,0.016,Normal,14.9,FAIBLE,0.318,0.912,0.016
+00012470_004.png,Cardiomegaly|Infiltration,0.38,True,False,13.54,31.5,0.0,Calcification,0.939,True,0.955,0.003,0.996,0.0,Cardiomegaly,44.4,ÉLEVÉ,0.0,0.955,0.0
+00006875_031.png,Cardiomegaly,0.507,True,True,17.75,31.86,0.0,Normal,0.844,True,0.156,0.001,0.999,0.001,Cardiomegaly,44.6,ÉLEVÉ,0.536,0.156,0.001
+00015843_016.png,Edema|Effusion|Infiltration,0.239,False,False,9.11,31.5,1.7,Calcification,0.769,True,0.954,0.002,0.001,0.996,Edema,49.4,INDÉTERMINÉ,0.0,0.954,0.996
+00029882_000.png,Atelectasis|Cardiomegaly|Effusion|Infiltration,0.591,True,True,17.41,29.45,0.05,Normal,0.991,True,0.009,0.003,0.997,0.0,Cardiomegaly,49.3,ÉLEVÉ,0.956,0.009,0.0
+00016395_003.png,Edema|Pneumonia,-0.05,False,False,0.0,31.5,0.0,Calcification,0.99,True,0.998,0.0,0.001,0.998,Edema,50.0,INDÉTERMINÉ,0.0,0.998,0.998
+00028509_016.png,Cardiomegaly|Consolidation,0.583,True,True,20.16,31.86,0.0,Normal,0.58,False,0.42,0.276,0.208,0.515,Edema,45.8,ÉLEVÉ,0.914,0.42,0.515
+00018614_009.png,Cardiomegaly,0.581,True,True,11.62,20.01,0.0,Normal,0.989,True,0.011,0.005,0.995,0.0,Cardiomegaly,48.5,ÉLEVÉ,0.904,0.011,0.0
+00014387_005.png,Edema|Mass|Nodule,0.374,True,False,13.37,31.5,0.0,Calcification,0.963,True,0.984,0.0,0.0,1.0,Edema,49.8,ÉLEVÉ,0.0,0.984,1.0
+00019691_000.png,No Finding,0.604,True,True,19.03,31.5,0.61,Normal,0.894,True,0.106,1.0,0.0,0.0,Normal,16.1,FAIBLE,1.0,0.106,0.0
+00017207_006.png,Edema|Infiltration,-0.05,False,False,0.0,31.5,0.09,Calcification,0.869,True,0.939,0.0,0.0,1.0,Edema,49.4,INDÉTERMINÉ,0.0,0.939,1.0
+00027672_006.png,No Finding,0.495,True,False,14.23,28.76,0.0,Normal,0.94,True,0.06,1.0,0.0,0.0,Normal,7.7,FAIBLE,0.474,0.06,0.0
+00028971_002.png,Edema|Effusion|Infiltration,-0.05,False,False,0.0,31.86,0.0,Normal,0.576,False,0.424,0.0,0.002,0.998,Edema,44.2,INDÉTERMINÉ,0.0,0.424,0.998
+00018233_000.png,Cardiomegaly|Effusion,0.531,True,True,15.6,29.37,0.97,Calcification,0.593,False,0.603,0.001,0.999,0.0,Cardiomegaly,50.8,ÉLEVÉ,0.656,0.603,0.0
+00000013_016.png,No Finding,0.714,True,True,17.94,25.14,0.9,Calcification,0.99,True,0.996,0.992,0.005,0.003,Normal,25.3,MODÉRÉ,1.0,0.996,0.003
+00000032_052.png,Atelectasis|Edema|Infiltration,0.567,True,True,19.44,31.5,0.84,Calcification,0.973,True,0.98,0.01,0.001,0.989,Edema,61.9,ÉLEVÉ,0.836,0.98,0.989
+00003948_000.png,No Finding,0.599,True,True,19.2,32.06,0.9,Normal,0.981,True,0.019,0.994,0.002,0.004,Normal,15.3,FAIBLE,0.995,0.019,0.004
+00028774_007.png,No Finding,0.505,True,True,17.67,31.86,0.1,Calcification,0.483,False,0.879,0.01,0.185,0.805,Edema,55.3,ÉLEVÉ,0.523,0.879,0.805
+00023325_013.png,Cardiomegaly|Effusion,0.464,True,False,14.87,32.09,0.0,Calcification,0.958,True,0.991,0.371,0.56,0.069,Cardiomegaly,37.0,ÉLEVÉ,0.318,0.991,0.069
+00016376_011.png,Edema,0.7,True,True,23.89,31.86,0.0,Calcification,0.969,True,0.997,0.011,0.009,0.98,Edema,64.5,ÉLEVÉ,1.0,0.997,0.98
+00011558_005.png,No Finding,0.557,True,True,17.55,31.5,0.0,Calcification,0.511,False,0.514,0.642,0.357,0.001,Normal,29.5,MODÉRÉ,0.786,0.514,0.001
+00018739_021.png,Edema,0.409,True,False,12.67,31.0,0.0,Calcification,0.66,True,0.725,0.128,0.505,0.366,Cardiomegaly,40.3,ÉLEVÉ,0.044,0.725,0.366
+00007958_002.png,No Finding,0.482,True,False,12.43,25.8,0.05,Normal,0.991,True,0.009,0.475,0.241,0.284,Normal,26.0,MODÉRÉ,0.409,0.009,0.284
+00006304_004.png,Atelectasis|Cardiomegaly,0.512,True,True,17.72,31.5,0.37,Aortic_enlargement,0.69,True,0.991,0.0,1.0,0.0,Cardiomegaly,53.4,ÉLEVÉ,0.562,0.991,0.0
+00015604_000.png,Cardiomegaly,0.568,True,True,15.92,28.04,0.0,Normal,0.786,True,0.214,0.361,0.629,0.01,Cardiomegaly,37.1,ÉLEVÉ,0.839,0.214,0.01
+00021886_001.png,Cardiomegaly,0.542,True,True,17.26,31.86,0.76,Normal,0.858,True,0.142,0.002,0.997,0.001,Cardiomegaly,47.0,ÉLEVÉ,0.708,0.142,0.001
+00001373_002.png,Cardiomegaly|Infiltration,-0.05,False,False,0.0,31.5,0.0,Calcification,0.85,True,0.957,0.0,1.0,0.0,Cardiomegaly,44.6,INDÉTERMINÉ,0.0,0.957,0.0
+00021431_006.png,Cardiomegaly|Mass,0.302,True,False,10.66,30.32,0.0,Calcification,0.822,True,0.927,0.022,0.938,0.041,Cardiomegaly,43.7,ÉLEVÉ,0.0,0.927,0.041
+00007227_004.png,Atelectasis|Edema|Nodule,0.278,False,False,10.34,31.5,1.91,Calcification,0.566,False,0.995,0.0,0.0,1.0,Edema,50.0,INDÉTERMINÉ,0.0,0.995,1.0
+00010007_060.png,Edema|Pleural_Thickening,0.507,True,True,17.55,31.5,0.0,Calcification,0.546,False,0.993,0.0,0.83,0.17,Cardiomegaly,53.8,ÉLEVÉ,0.536,0.993,0.17
+00026421_002.png,Edema,0.473,True,False,16.68,31.86,0.0,Normal,0.753,True,0.247,0.0,0.0,1.0,Edema,48.0,ÉLEVÉ,0.367,0.247,1.0
+00003789_009.png,Cardiomegaly|Pleural_Thickening,0.56,True,True,17.64,31.5,0.97,Normal,0.936,True,0.064,0.0,1.0,0.0,Cardiomegaly,47.6,ÉLEVÉ,0.799,0.064,0.0
+00021047_021.png,No Finding,0.471,True,False,16.59,31.86,0.0,Calcification,0.639,True,0.655,0.767,0.008,0.225,Normal,21.1,FAIBLE,0.354,0.655,0.225
+00022515_001.png,Cardiomegaly,0.625,True,True,18.07,28.91,0.1,Normal,0.997,True,0.003,0.001,0.999,0.0,Cardiomegaly,50.0,ÉLEVÉ,1.0,0.003,0.0
+00006920_004.png,Cardiomegaly,0.518,True,True,16.57,31.98,0.0,Calcification,0.853,True,0.856,0.013,0.987,0.0,Cardiomegaly,52.0,ÉLEVÉ,0.591,0.856,0.0
+00021942_006.png,Edema,0.471,True,False,16.59,31.86,0.0,Calcification,0.803,True,0.944,0.002,0.0,0.998,Edema,54.7,ÉLEVÉ,0.354,0.944,0.998
+00004315_000.png,Cardiomegaly,0.573,True,True,18.37,32.06,0.0,Normal,0.919,True,0.081,0.004,0.996,0.0,Cardiomegaly,48.6,ÉLEVÉ,0.865,0.081,0.0
+00008736_000.png,No Finding,0.531,True,True,16.92,31.86,0.0,Normal,0.801,True,0.199,0.872,0.128,0.001,Normal,16.3,FAIBLE,0.656,0.199,0.001
+00013052_004.png,Edema,0.401,True,False,14.19,31.5,1.14,Normal,0.668,True,0.332,0.989,0.004,0.007,Normal,3.8,FAIBLE,0.003,0.332,0.007
+00016205_009.png,Cardiomegaly|Infiltration,0.549,True,True,15.62,28.42,1.02,Normal,0.987,True,0.013,0.999,0.001,0.0,Normal,11.4,FAIBLE,0.747,0.013,0.0
+00009863_007.png,Atelectasis|Consolidation|Edema|Infiltration|Pneumonia,0.273,False,False,10.17,31.5,0.4,Normal,0.911,True,0.089,0.0,0.0,1.0,Edema,40.9,INDÉTERMINÉ,0.0,0.089,1.0
+00020398_010.png,Edema|Effusion,0.395,True,False,13.89,31.19,0.0,Normal,0.869,True,0.131,0.0,0.0,1.0,Edema,41.3,ÉLEVÉ,0.0,0.131,1.0
+00000756_001.png,Cardiomegaly|Effusion|Infiltration,0.68,True,True,20.02,29.45,0.55,Normal,0.813,True,0.187,0.001,0.998,0.0,Cardiomegaly,51.8,ÉLEVÉ,1.0,0.187,0.0
+00016399_015.png,Edema|Infiltration|Pneumonia,0.317,True,False,11.57,31.5,0.65,Calcification,0.953,True,0.999,0.0,0.016,0.984,Edema,49.9,ÉLEVÉ,0.0,0.999,0.984
+00008236_000.png,Cardiomegaly|Nodule,0.596,True,True,18.79,31.5,0.57,Normal,0.775,True,0.225,0.001,0.999,0.0,Cardiomegaly,51.9,ÉLEVÉ,0.982,0.225,0.0
+00015732_014.png,Edema|Infiltration,0.427,True,False,15.01,31.5,0.3,Calcification,0.574,False,0.737,0.007,0.019,0.974,Edema,49.0,ÉLEVÉ,0.133,0.737,0.974
+00019730_007.png,Atelectasis|Edema|Effusion|Nodule,0.411,True,False,14.52,31.5,0.0,Calcification,0.97,True,0.985,0.001,0.002,0.997,Edema,50.6,ÉLEVÉ,0.055,0.985,0.997
+00008522_001.png,No Finding,0.432,True,False,15.45,32.06,1.48,Normal,0.443,False,0.557,0.001,0.998,0.001,Cardiomegaly,42.9,ÉLEVÉ,0.159,0.557,0.001
+00010808_002.png,Cardiomegaly,0.513,True,True,14.36,27.99,0.51,Normal,0.975,True,0.025,0.0,1.0,0.0,Cardiomegaly,43.7,ÉLEVÉ,0.565,0.025,0.0
+00012646_008.png,Cardiomegaly,0.513,True,True,16.46,32.09,0.69,Normal,0.987,True,0.013,0.0,1.0,0.0,Cardiomegaly,43.6,ÉLEVÉ,0.565,0.013,0.0
+00025062_001.png,Edema|Infiltration,0.529,True,True,16.84,31.86,0.0,Normal,0.702,True,0.298,0.024,0.001,0.975,Edema,51.6,ÉLEVÉ,0.643,0.298,0.975
+00011948_001.png,Consolidation|Edema|Infiltration,0.453,True,False,15.83,31.5,0.02,Calcification,0.918,True,0.966,0.0,0.0,1.0,Edema,53.6,ÉLEVÉ,0.263,0.966,1.0
+00008068_016.png,Edema|Infiltration,0.416,True,False,14.68,31.5,0.0,Calcification,0.992,True,1.0,0.0,0.0,1.0,Edema,51.2,ÉLEVÉ,0.081,1.0,1.0
+00018360_009.png,Edema|Effusion,0.51,True,True,17.64,31.5,1.16,Calcification,0.964,True,1.0,0.001,0.053,0.945,Edema,57.9,ÉLEVÉ,0.549,1.0,0.945
+00017138_044.png,Cardiomegaly|Effusion,0.221,False,False,8.53,31.5,1.39,Normal,0.837,True,0.163,0.0,0.507,0.493,Cardiomegaly,39.1,INDÉTERMINÉ,0.0,0.163,0.493
+00004533_009.png,Cardiomegaly,0.562,True,True,19.28,31.5,0.0,Calcification,0.502,False,0.912,0.0,0.996,0.004,Cardiomegaly,56.3,ÉLEVÉ,0.81,0.912,0.004
+00026427_000.png,No Finding,0.435,True,False,13.96,32.09,0.0,Normal,0.997,True,0.003,1.0,0.0,0.0,Normal,2.7,FAIBLE,0.174,0.003,0.0
+00022877_007.png,No Finding,0.289,False,False,10.79,31.86,0.04,Calcification,0.94,True,0.965,0.013,0.468,0.52,Edema,46.8,INDÉTERMINÉ,0.0,0.965,0.52
+00002497_001.png,Cardiomegaly,0.549,True,True,17.31,31.5,1.3,Normal,0.975,True,0.025,0.004,0.995,0.002,Cardiomegaly,46.3,ÉLEVÉ,0.747,0.025,0.002
+00004822_017.png,Atelectasis|Cardiomegaly|Fibrosis,0.505,True,True,15.91,31.5,2.1,Normal,0.888,True,0.112,0.003,0.996,0.002,Cardiomegaly,43.9,ÉLEVÉ,0.526,0.112,0.002
+00006481_005.png,Cardiomegaly,0.598,True,True,20.79,32.06,0.0,Normal,0.476,False,0.524,0.0,1.0,0.0,Cardiomegaly,55.1,ÉLEVÉ,0.992,0.524,0.0
+00019638_000.png,No Finding,0.414,True,False,13.29,32.09,0.0,Normal,0.993,True,0.007,0.956,0.044,0.0,Normal,2.7,FAIBLE,0.07,0.007,0.0
+00029099_000.png,No Finding,0.481,True,False,16.92,31.86,0.0,Calcification,0.422,False,0.766,0.575,0.005,0.42,Normal,30.7,MODÉRÉ,0.406,0.766,0.42
+00021942_005.png,Edema|Infiltration,0.502,True,True,17.59,31.86,0.0,Normal,0.67,True,0.33,0.0,0.0,1.0,Edema,51.0,ÉLEVÉ,0.51,0.33,1.0
+00004452_000.png,Cardiomegaly,0.583,True,True,18.7,32.06,0.0,Normal,0.977,True,0.023,0.001,0.998,0.001,Cardiomegaly,48.9,ÉLEVÉ,0.917,0.023,0.001
+00005832_024.png,Edema|Effusion,0.505,True,True,17.47,31.5,0.0,Calcification,0.983,True,0.999,0.0,0.0,1.0,Edema,57.8,ÉLEVÉ,0.523,0.999,1.0
+00011322_008.png,Edema,0.555,True,True,16.55,29.84,0.29,Calcification,0.892,True,0.989,0.031,0.052,0.917,Edema,60.0,ÉLEVÉ,0.773,0.989,0.917
+00002376_001.png,No Finding,0.471,True,False,16.41,31.5,1.09,Calcification,0.914,True,0.966,0.115,0.012,0.873,Edema,50.3,ÉLEVÉ,0.354,0.966,0.873
+00018802_000.png,Cardiomegaly,0.505,True,True,16.1,31.86,0.0,Aortic_enlargement,0.445,False,0.851,0.206,0.771,0.023,Cardiomegaly,44.3,ÉLEVÉ,0.526,0.851,0.023
+00001301_026.png,Edema|Effusion,0.437,True,False,15.34,31.5,1.6,Aortic_enlargement,0.661,True,0.974,0.0,0.171,0.829,Edema,51.7,ÉLEVÉ,0.185,0.974,0.829
+00010737_019.png,No Finding,0.456,True,False,9.34,20.48,0.0,Normal,0.956,True,0.044,0.998,0.0,0.002,Normal,4.7,FAIBLE,0.279,0.044,0.002
+00000506_016.png,Edema|Effusion|Pneumonia,0.309,True,False,11.32,31.5,0.04,Calcification,0.593,False,0.909,0.005,0.001,0.994,Edema,48.9,ÉLEVÉ,0.0,0.909,0.994
+00015494_004.png,Cardiomegaly,0.536,True,True,18.46,31.5,1.99,Calcification,0.819,True,0.863,0.0,1.0,0.0,Cardiomegaly,53.8,ÉLEVÉ,0.68,0.863,0.0
+00008147_005.png,No Finding,0.341,True,False,12.3,31.5,0.0,Calcification,0.797,True,0.962,0.741,0.259,0.0,Normal,18.7,FAIBLE,0.0,0.962,0.0
+00005895_011.png,Edema|Effusion|Infiltration,0.468,True,False,16.32,31.5,1.4,Aortic_enlargement,0.977,True,1.0,0.004,0.001,0.995,Edema,55.0,ÉLEVÉ,0.341,1.0,0.995
+00008063_000.png,No Finding,0.378,True,False,9.74,25.8,0.28,Normal,0.922,True,0.078,1.0,0.0,0.0,Normal,0.8,FAIBLE,0.0,0.078,0.0
+00025421_002.png,Consolidation|Edema,0.442,True,False,15.68,31.86,0.03,Calcification,0.982,True,0.991,0.0,0.0,1.0,Edema,53.1,ÉLEVÉ,0.211,0.991,1.0
+00016052_007.png,No Finding,0.622,True,True,19.61,31.5,1.34,Calcification,0.631,True,0.639,1.0,0.0,0.0,Normal,21.4,FAIBLE,1.0,0.639,0.0
+00018275_000.png,Cardiomegaly,0.307,True,False,8.16,26.56,0.0,Normal,0.999,True,0.001,0.042,0.933,0.025,Cardiomegaly,33.7,MODÉRÉ,0.0,0.001,0.025
+00002524_025.png,No Finding,0.596,True,True,15.39,25.8,1.31,Normal,0.683,True,0.317,0.997,0.003,0.0,Normal,18.0,FAIBLE,0.982,0.317,0.0
+00019809_000.png,Cardiomegaly,0.549,True,True,17.31,31.5,0.98,Normal,0.934,True,0.066,0.698,0.298,0.004,Normal,22.4,FAIBLE,0.747,0.066,0.004
+00001075_038.png,Cardiomegaly,0.482,True,False,15.45,32.06,0.29,Normal,0.995,True,0.005,0.015,0.985,0.0,Cardiomegaly,40.7,ÉLEVÉ,0.409,0.005,0.0
+00021201_007.png,Edema|Effusion|Infiltration|Pneumonia,0.635,True,True,21.82,31.86,0.0,Calcification,0.978,True,0.98,0.0,0.0,1.0,Edema,64.8,ÉLEVÉ,1.0,0.98,1.0
+00005391_001.png,No Finding,0.52,True,True,17.77,31.15,0.14,Calcification,0.976,True,0.987,0.402,0.085,0.513,Edema,42.4,ÉLEVÉ,0.602,0.987,0.513
+00009932_003.png,No Finding,0.523,True,True,18.05,31.5,0.91,Calcification,0.774,True,0.848,0.0,1.0,0.0,Cardiomegaly,52.7,ÉLEVÉ,0.615,0.848,0.0
+00020488_000.png,No Finding,0.445,True,False,14.19,31.86,0.0,Normal,0.986,True,0.014,1.0,0.0,0.0,Normal,3.5,FAIBLE,0.227,0.014,0.0
+00025009_000.png,No Finding,0.451,True,False,14.35,31.86,0.0,Normal,0.987,True,0.013,0.995,0.0,0.005,Normal,4.1,FAIBLE,0.253,0.013,0.005
+00003544_002.png,Cardiomegaly|Effusion,0.177,False,False,5.08,28.68,0.0,Calcification,0.967,True,0.981,0.0,0.999,0.0,Cardiomegaly,44.8,INDÉTERMINÉ,0.0,0.981,0.0
+00011961_000.png,No Finding,0.589,True,True,18.54,31.5,0.0,Normal,0.948,True,0.052,0.996,0.003,0.0,Normal,14.8,FAIBLE,0.943,0.052,0.0
+00014849_002.png,Edema|Emphysema,0.632,True,True,17.61,25.8,0.14,Aortic_enlargement,0.503,False,0.74,0.0,0.0,1.0,Edema,62.4,ÉLEVÉ,1.0,0.74,1.0
+00021420_027.png,Edema|Effusion|Nodule|Mass,0.299,False,False,10.99,31.5,0.13,Calcification,0.751,True,0.999,0.0,0.0,1.0,Edema,50.0,INDÉTERMINÉ,0.0,0.999,1.0
+00017274_002.png,Cardiomegaly,0.499,True,False,17.31,31.5,0.0,Calcification,0.543,False,0.617,0.008,0.99,0.002,Cardiomegaly,48.3,ÉLEVÉ,0.497,0.617,0.002
+00025857_002.png,No Finding,0.505,True,True,14.88,29.45,0.14,Normal,0.977,True,0.023,0.999,0.001,0.0,Normal,8.2,FAIBLE,0.526,0.023,0.0
+00006645_000.png,No Finding,0.508,True,True,13.34,26.27,0.57,Normal,0.99,True,0.01,1.0,0.0,0.0,Normal,8.2,FAIBLE,0.539,0.01,0.0
+00029539_000.png,Cardiomegaly|Effusion|Pleural_Thickening,0.516,True,True,15.19,29.45,0.74,Normal,0.988,True,0.012,0.065,0.932,0.004,Cardiomegaly,41.5,ÉLEVÉ,0.578,0.012,0.004
+00012048_008.png,Edema|Mass,0.266,False,False,8.52,32.09,0.09,Calcification,0.99,True,0.997,0.0,0.0,1.0,Edema,50.0,INDÉTERMINÉ,0.0,0.997,1.0
+00029654_000.png,Edema|Infiltration|Pneumonia,0.158,False,False,6.64,31.86,0.0,Normal,0.944,True,0.056,0.072,0.135,0.794,Edema,37.0,INDÉTERMINÉ,0.0,0.056,0.794
+00012470_014.png,Cardiomegaly|Infiltration,0.382,True,False,13.62,31.5,0.0,Normal,0.982,True,0.018,0.0,1.0,0.0,Cardiomegaly,35.2,ÉLEVÉ,0.0,0.018,0.0
+00020165_000.png,No Finding,0.521,True,True,13.57,26.06,0.6,Normal,0.999,True,0.001,1.0,0.0,0.0,Normal,9.1,FAIBLE,0.604,0.001,0.0
+00019576_058.png,Edema|Infiltration,0.434,True,False,15.26,31.5,0.0,Calcification,0.98,True,0.998,0.0,0.0,1.0,Edema,52.6,ÉLEVÉ,0.172,0.998,1.0
+00008888_016.png,Edema|Infiltration,0.416,True,False,14.68,31.5,0.0,Normal,0.958,True,0.042,0.003,0.001,0.997,Edema,41.5,ÉLEVÉ,0.081,0.042,0.997
+00023088_000.png,Cardiomegaly|Effusion|Infiltration,0.747,True,True,25.39,31.86,0.64,Calcification,0.926,True,0.962,0.0,0.999,0.0,Cardiomegaly,59.6,ÉLEVÉ,1.0,0.962,0.0
+00010448_000.png,Cardiomegaly,0.56,True,True,15.98,28.55,0.0,Normal,0.996,True,0.004,0.312,0.673,0.015,Cardiomegaly,36.2,ÉLEVÉ,0.799,0.004,0.015
+00013457_005.png,Cardiomegaly,0.583,True,True,19.93,31.5,1.27,Calcification,0.941,True,0.985,0.0,1.0,0.0,Cardiomegaly,58.6,ÉLEVÉ,0.914,0.985,0.0
+00014149_034.png,Edema,0.432,True,False,15.18,31.5,0.0,Calcification,0.774,True,0.808,0.0,0.0,1.0,Edema,50.5,ÉLEVÉ,0.159,0.808,1.0
+00008185_001.png,No Finding,0.51,True,True,16.07,31.49,0.0,Calcification,0.898,True,0.905,0.077,0.093,0.83,Edema,53.8,ÉLEVÉ,0.552,0.905,0.83
+00025732_004.png,Cardiomegaly,0.497,True,False,17.42,31.86,1.63,Normal,0.673,True,0.327,0.0,1.0,0.0,Cardiomegaly,45.5,ÉLEVÉ,0.484,0.327,0.0
+00004911_023.png,Atelectasis|Edema|Infiltration|Nodule,0.481,True,False,16.73,31.5,0.0,Calcification,0.904,True,0.911,0.0,0.0,1.0,Edema,55.2,ÉLEVÉ,0.406,0.911,1.0
+00006660_001.png,No Finding,0.594,True,True,18.7,31.5,1.65,Calcification,0.58,False,0.629,0.923,0.075,0.002,Normal,23.5,FAIBLE,0.969,0.629,0.002
+00027389_002.png,Cardiomegaly,0.581,True,True,18.64,32.09,0.05,Calcification,0.517,False,0.549,0.169,0.778,0.054,Cardiomegaly,48.4,ÉLEVÉ,0.904,0.549,0.054
+00007018_048.png,Edema,0.296,False,False,11.03,31.86,0.0,Normal,0.544,False,0.456,0.171,0.311,0.518,Edema,36.1,INDÉTERMINÉ,0.0,0.456,0.518
+00007654_000.png,Cardiomegaly,0.604,True,True,19.25,31.86,0.0,Normal,0.987,True,0.013,0.588,0.411,0.001,Normal,29.6,MODÉRÉ,1.0,0.013,0.001
+00018972_027.png,Edema,0.442,True,False,15.5,31.5,2.3,Calcification,0.727,True,0.995,0.042,0.524,0.435,Cardiomegaly,48.8,ÉLEVÉ,0.211,0.995,0.435
+00004526_017.png,Cardiomegaly|Infiltration,0.24,False,False,7.2,30.05,0.03,Normal,0.994,True,0.006,0.001,0.999,0.0,Cardiomegaly,35.0,INDÉTERMINÉ,0.0,0.006,0.0
+00004674_003.png,No Finding,0.38,True,False,13.78,32.06,0.0,Normal,0.953,True,0.047,1.0,0.0,0.0,Normal,0.5,FAIBLE,0.0,0.047,0.0
+00004599_000.png,Cardiomegaly,0.523,True,True,16.78,32.06,1.73,Normal,0.982,True,0.018,0.064,0.934,0.003,Cardiomegaly,42.2,ÉLEVÉ,0.617,0.018,0.003
+00011702_050.png,Cardiomegaly|Effusion,0.466,True,False,16.24,31.5,0.0,Calcification,0.997,True,0.999,0.0,1.0,0.0,Cardiomegaly,49.9,ÉLEVÉ,0.328,0.999,0.0
+00006220_009.png,No Finding,0.445,True,False,12.77,25.8,0.0,Calcification,0.895,True,0.955,0.716,0.03,0.254,Normal,24.1,FAIBLE,0.224,0.955,0.254
+00015959_000.png,No Finding,0.242,False,False,7.77,32.09,0.0,Normal,0.996,True,0.004,0.818,0.178,0.005,Normal,6.4,INDÉTERMINÉ,0.0,0.004,0.005
+00011963_005.png,No Finding,0.395,True,False,14.03,31.5,0.59,Calcification,0.9,True,0.906,0.997,0.001,0.003,Normal,9.2,FAIBLE,0.0,0.906,0.003
+00005653_006.png,Atelectasis|Cardiomegaly|Consolidation|Infiltration,-0.05,False,False,0.0,31.5,0.07,Calcification,0.926,True,0.99,0.015,0.981,0.004,Cardiomegaly,44.4,INDÉTERMINÉ,0.0,0.99,0.004
+00025078_000.png,Cardiomegaly|Effusion|Infiltration,0.599,True,True,15.89,26.52,1.78,Normal,0.689,True,0.311,0.952,0.048,0.001,Normal,19.7,FAIBLE,0.995,0.311,0.001
+00015770_026.png,Cardiomegaly|Effusion|Infiltration,0.497,True,False,17.23,31.5,0.03,Calcification,0.826,True,0.851,0.0,1.0,0.0,Cardiomegaly,50.8,ÉLEVÉ,0.484,0.851,0.0
+00010012_006.png,Edema,0.236,False,False,9.02,31.5,0.0,Calcification,0.495,False,0.531,0.0,0.0,1.0,Edema,45.3,INDÉTERMINÉ,0.0,0.531,1.0
+00005797_000.png,No Finding,0.542,True,True,17.26,31.86,1.76,Calcification,0.672,True,0.733,0.997,0.003,0.0,Normal,18.1,FAIBLE,0.708,0.733,0.0
+00012141_021.png,Edema|Effusion,0.497,True,False,17.23,31.5,0.0,Calcification,0.767,True,1.0,0.0,0.0,1.0,Edema,57.3,ÉLEVÉ,0.484,1.0,1.0
+00030392_000.png,Cardiomegaly,0.615,True,True,16.3,26.52,1.88,Normal,0.983,True,0.017,0.017,0.979,0.005,Cardiomegaly,49.6,ÉLEVÉ,1.0,0.017,0.005
+00007510_000.png,Cardiomegaly,0.576,True,True,14.85,25.8,0.66,Normal,0.955,True,0.045,0.001,0.999,0.0,Cardiomegaly,48.6,ÉLEVÉ,0.878,0.045,0.0
+00003744_000.png,Cardiomegaly,0.732,True,True,18.88,25.8,0.77,Normal,0.99,True,0.01,0.0,1.0,0.0,Cardiomegaly,50.1,ÉLEVÉ,1.0,0.01,0.0
+00005695_005.png,No Finding,0.411,True,False,12.11,26.27,0.07,Normal,0.956,True,0.044,0.997,0.003,0.0,Normal,1.4,FAIBLE,0.055,0.044,0.0
+00018251_006.png,Edema,0.106,False,False,4.03,25.8,0.0,Calcification,0.934,True,0.979,0.039,0.071,0.891,Edema,47.9,INDÉTERMINÉ,0.0,0.979,0.891
+00021035_021.png,No Finding,0.14,False,False,6.06,31.86,0.0,Calcification,0.93,True,0.995,0.0,0.0,1.0,Edema,49.9,INDÉTERMINÉ,0.0,0.995,1.0
+00005363_001.png,No Finding,0.469,True,False,14.77,31.5,0.0,Normal,0.867,True,0.133,1.0,0.0,0.0,Normal,6.5,FAIBLE,0.344,0.133,0.0
+00009229_006.png,No Finding,0.486,True,False,16.9,31.5,0.0,Calcification,0.497,False,0.958,0.992,0.005,0.003,Normal,16.4,FAIBLE,0.432,0.958,0.003
+00010905_005.png,No Finding,0.563,True,True,14.52,25.8,1.49,Normal,0.966,True,0.034,0.992,0.007,0.001,Normal,12.8,FAIBLE,0.813,0.034,0.001
+00028431_003.png,Edema,0.385,True,False,13.86,31.86,0.0,Normal,0.837,True,0.163,0.065,0.005,0.93,Edema,39.0,ÉLEVÉ,0.0,0.163,0.93
+00017590_000.png,No Finding,0.484,True,False,15.54,32.09,0.0,Normal,0.998,True,0.002,1.0,0.0,0.0,Normal,6.4,FAIBLE,0.422,0.002,0.0
+00003091_000.png,Cardiomegaly,0.534,True,True,16.82,31.5,0.77,Normal,0.787,True,0.213,0.04,0.959,0.0,Cardiomegaly,45.8,ÉLEVÉ,0.669,0.213,0.0
+00006160_003.png,Edema,0.526,True,True,18.45,32.06,1.47,Normal,0.733,True,0.267,0.0,0.0,1.0,Edema,52.1,ÉLEVÉ,0.628,0.267,1.0
+00009459_006.png,No Finding,0.484,True,False,16.82,31.5,0.0,Normal,0.912,True,0.088,0.01,0.019,0.97,Edema,46.7,ÉLEVÉ,0.419,0.088,0.97
+00017524_033.png,Atelectasis|Cardiomegaly|Effusion,0.32,True,False,10.09,31.5,0.13,Calcification,0.72,True,0.76,0.0,0.999,0.0,Cardiomegaly,42.6,ÉLEVÉ,0.0,0.76,0.0
+00004751_002.png,No Finding,0.414,True,False,14.86,32.06,0.0,Calcification,0.666,True,0.678,0.053,0.012,0.935,Edema,45.6,ÉLEVÉ,0.068,0.678,0.935
+00003791_002.png,No Finding,0.513,True,True,13.24,25.8,0.72,Normal,0.998,True,0.002,1.0,0.0,0.0,Normal,8.5,FAIBLE,0.565,0.002,0.0
+00020927_000.png,No Finding,0.51,True,True,16.26,31.86,0.0,Normal,0.999,True,0.001,0.999,0.0,0.001,Normal,8.3,FAIBLE,0.552,0.001,0.001
+00017424_037.png,Edema,0.447,True,False,15.67,31.5,0.0,Calcification,0.966,True,0.994,0.0,0.0,1.0,Edema,53.5,ÉLEVÉ,0.237,0.994,1.0
+00010007_059.png,Edema|Pleural_Thickening,0.554,True,True,19.03,31.5,0.66,Aortic_enlargement,0.815,True,0.928,0.0,0.001,0.999,Edema,60.8,ÉLEVÉ,0.771,0.928,0.999
+00018972_031.png,Edema,0.278,False,False,10.34,31.5,0.04,Calcification,0.975,True,0.991,0.0,0.005,0.995,Edema,49.9,INDÉTERMINÉ,0.0,0.991,0.995
+00022237_009.png,Atelectasis|Cardiomegaly|Infiltration,0.494,True,False,17.34,31.86,0.53,Calcification,0.848,True,0.92,0.0,0.007,0.993,Edema,56.2,ÉLEVÉ,0.471,0.92,0.993
+00002435_008.png,Cardiomegaly,0.599,True,True,15.39,25.7,1.81,Normal,0.832,True,0.168,0.0,1.0,0.0,Cardiomegaly,51.6,ÉLEVÉ,0.995,0.168,0.0
+00027637_004.png,Edema,0.46,True,False,16.26,31.86,0.0,Calcification,0.952,True,0.959,0.037,0.009,0.954,Edema,52.6,ÉLEVÉ,0.302,0.959,0.954
+00021970_003.png,Edema,0.421,True,False,15.02,31.86,0.0,Normal,0.895,True,0.105,0.0,0.0,1.0,Edema,42.6,ÉLEVÉ,0.107,0.105,1.0
+00001580_000.png,Edema|Emphysema|Mass|Pneumothorax,0.49,True,False,15.7,32.06,0.0,Calcification,0.539,False,0.55,0.005,0.001,0.994,Edema,52.0,ÉLEVÉ,0.448,0.55,0.994
+00009257_001.png,Cardiomegaly|Infiltration,0.44,True,False,15.42,31.5,0.67,Calcification,0.805,True,0.956,0.0,1.0,0.0,Cardiomegaly,47.5,ÉLEVÉ,0.198,0.956,0.0
+00028216_000.png,Cardiomegaly,0.544,True,True,14.43,26.52,1.64,Normal,0.997,True,0.003,0.268,0.716,0.015,Cardiomegaly,36.5,ÉLEVÉ,0.721,0.003,0.015
+00006375_002.png,Cardiomegaly|Effusion,0.479,True,False,16.84,31.86,0.0,Calcification,0.917,True,0.93,0.0,1.0,0.0,Cardiomegaly,50.2,ÉLEVÉ,0.393,0.93,0.0
+00004807_000.png,Cardiomegaly|Effusion,0.591,True,True,18.95,32.06,2.08,Normal,0.469,False,0.531,0.015,0.983,0.003,Cardiomegaly,54.1,ÉLEVÉ,0.956,0.531,0.003
+00027726_003.png,Edema|Infiltration,0.559,True,True,19.41,31.86,0.18,Normal,0.607,True,0.393,0.001,0.01,0.989,Edema,55.8,ÉLEVÉ,0.797,0.393,0.989
+00021186_001.png,Cardiomegaly,0.617,True,True,15.08,24.43,0.0,Normal,0.962,True,0.038,0.046,0.948,0.006,Cardiomegaly,48.8,ÉLEVÉ,1.0,0.038,0.006
+00013641_024.png,Edema|Infiltration,0.541,True,True,18.62,31.5,0.5,Calcification,0.98,True,0.99,0.001,0.002,0.997,Edema,60.4,ÉLEVÉ,0.706,0.99,0.997
+00014971_006.png,Edema,0.559,True,True,19.2,31.5,0.0,Calcification,0.638,True,0.661,0.002,0.002,0.996,Edema,58.5,ÉLEVÉ,0.797,0.661,0.996
+00016414_002.png,Cardiomegaly,0.695,True,True,20.16,29.0,0.27,Normal,0.846,True,0.154,0.0,0.997,0.002,Cardiomegaly,51.5,ÉLEVÉ,1.0,0.154,0.002
+00000491_007.png,Consolidation|Edema|Effusion|Pneumothorax,0.195,False,False,5.75,29.45,0.64,Calcification,0.806,True,0.986,0.0,0.0,1.0,Edema,49.9,INDÉTERMINÉ,0.0,0.986,1.0
+00013615_050.png,Atelectasis|Cardiomegaly|Effusion|Infiltration,0.473,True,False,16.49,31.5,0.0,Normal,0.668,True,0.332,0.002,0.996,0.001,Cardiomegaly,43.8,ÉLEVÉ,0.367,0.332,0.001
+00003610_018.png,Cardiomegaly,0.549,True,True,18.87,31.5,0.0,Normal,0.941,True,0.059,0.0,1.0,0.0,Cardiomegaly,46.8,ÉLEVÉ,0.745,0.059,0.0
+00005916_007.png,No Finding,0.393,True,False,14.19,32.06,0.0,Normal,0.932,True,0.068,0.388,0.001,0.612,Edema,25.2,MODÉRÉ,0.0,0.068,0.612
+00006042_002.png,No Finding,0.57,True,True,17.46,30.61,0.0,Normal,0.984,True,0.016,0.999,0.0,0.001,Normal,13.0,FAIBLE,0.852,0.016,0.001
+00027923_000.png,Cardiomegaly,0.518,True,True,16.63,32.09,0.0,Normal,0.548,False,0.452,0.001,0.999,0.0,Cardiomegaly,48.4,ÉLEVÉ,0.591,0.452,0.0
+00027726_008.png,Edema,0.552,True,True,19.17,31.86,0.0,Calcification,0.706,True,0.797,0.006,0.001,0.993,Edema,59.1,ÉLEVÉ,0.758,0.797,0.993
+00018248_000.png,Cardiomegaly|Effusion,0.63,True,True,18.78,29.79,0.0,Normal,0.597,False,0.403,0.28,0.717,0.002,Cardiomegaly,44.2,ÉLEVÉ,1.0,0.403,0.002
+00013670_134.png,Atelectasis|Cardiomegaly|Effusion|Nodule,0.653,True,True,22.15,31.5,0.0,Calcification,0.853,True,0.869,0.007,0.99,0.002,Cardiomegaly,58.4,ÉLEVÉ,1.0,0.869,0.002
+00016802_001.png,Cardiomegaly|Effusion,0.531,True,True,18.29,31.5,0.0,Calcification,0.917,True,0.94,0.003,0.986,0.011,Cardiomegaly,54.2,ÉLEVÉ,0.654,0.94,0.011
+00017207_000.png,No Finding,0.552,True,True,17.72,32.09,0.0,Normal,0.918,True,0.082,0.915,0.0,0.085,Normal,15.6,FAIBLE,0.76,0.082,0.085
+00014089_004.png,No Finding,0.44,True,False,15.42,31.5,0.0,Normal,0.533,False,0.467,0.999,0.001,0.0,Normal,7.7,FAIBLE,0.198,0.467,0.0
+00020826_011.png,Atelectasis|Consolidation|Edema|Effusion|Infiltration,-0.05,False,False,0.0,31.86,0.49,Calcification,0.606,True,0.988,0.0,0.005,0.994,Edema,49.8,INDÉTERMINÉ,0.0,0.988,0.994
+00027028_005.png,No Finding,0.484,True,False,14.27,29.45,1.87,Normal,0.93,True,0.07,0.982,0.004,0.014,Normal,7.7,FAIBLE,0.422,0.07,0.014
+00028715_002.png,Atelectasis|Edema|Effusion,0.382,True,False,13.77,31.86,0.09,Normal,0.857,True,0.143,0.0,0.004,0.996,Edema,41.4,ÉLEVÉ,0.0,0.143,0.996
+00026963_017.png,Edema|Infiltration,0.393,True,False,14.1,31.86,0.0,Calcification,0.618,True,0.823,0.005,0.003,0.991,Edema,48.0,ÉLEVÉ,0.0,0.823,0.991
+00006878_000.png,No Finding,0.479,True,False,15.36,32.06,0.0,Normal,0.997,True,0.003,0.999,0.001,0.0,Normal,6.0,FAIBLE,0.396,0.003,0.0
+00010563_021.png,Consolidation|Edema|Infiltration,0.51,True,True,16.38,32.09,0.0,Normal,0.997,True,0.003,0.0,0.0,1.0,Edema,48.3,ÉLEVÉ,0.552,0.003,1.0
+00026979_003.png,No Finding,0.484,True,False,15.54,32.09,0.25,Normal,0.986,True,0.014,1.0,0.0,0.0,Normal,6.5,FAIBLE,0.422,0.014,0.0
+00027061_001.png,Cardiomegaly|Effusion|Mass|Pleural_Thickening,0.544,True,True,17.47,32.09,0.0,Calcification,0.815,True,0.932,0.255,0.731,0.014,Cardiomegaly,46.3,ÉLEVÉ,0.721,0.932,0.014
+00019334_000.png,No Finding,0.56,True,True,17.64,31.5,0.04,Normal,0.993,True,0.007,0.999,0.001,0.0,Normal,12.1,FAIBLE,0.799,0.007,0.0
+00004858_022.png,Cardiomegaly|Effusion|Infiltration|Pneumothorax,0.661,True,True,22.65,31.86,0.0,Normal,0.47,False,0.53,0.0,1.0,0.0,Cardiomegaly,55.3,ÉLEVÉ,1.0,0.53,0.0
+00020999_001.png,Consolidation|Edema|Infiltration,0.669,True,True,22.9,31.86,0.01,Calcification,0.842,True,0.976,0.002,0.0,0.998,Edema,64.7,ÉLEVÉ,1.0,0.976,0.998
+00030570_004.png,Edema,0.497,True,False,17.42,31.86,0.01,Normal,0.853,True,0.147,0.0,0.006,0.994,Edema,48.7,ÉLEVÉ,0.484,0.147,0.994
+00012136_000.png,No Finding,0.201,False,False,5.7,28.42,0.0,Normal,0.999,True,0.001,0.997,0.001,0.002,Normal,0.1,INDÉTERMINÉ,0.0,0.001,0.002
+00010012_018.png,Edema,0.458,True,False,16.0,31.5,0.0,Normal,0.634,True,0.366,0.0,0.0,1.0,Edema,48.0,ÉLEVÉ,0.289,0.366,1.0
+00030079_005.png,Edema|Effusion,0.382,True,False,13.77,31.86,0.0,Normal,0.974,True,0.026,0.0,0.029,0.971,Edema,40.1,ÉLEVÉ,0.0,0.026,0.971
+00008258_003.png,No Finding,0.432,True,False,15.45,32.06,0.0,Normal,0.996,True,0.004,1.0,0.0,0.0,Normal,2.4,FAIBLE,0.159,0.004,0.0
+00011711_007.png,Edema,0.494,True,False,17.14,31.5,0.76,Calcification,0.506,False,0.517,0.0,0.0,1.0,Edema,52.2,ÉLEVÉ,0.471,0.517,1.0
+00012628_041.png,Cardiomegaly|Effusion,0.539,True,True,18.54,31.5,0.0,Calcification,0.927,True,0.994,0.0,1.0,0.0,Cardiomegaly,55.3,ÉLEVÉ,0.693,0.994,0.0
+00025416_001.png,Cardiomegaly,0.484,True,False,15.53,32.07,0.04,Calcification,0.574,False,0.728,0.032,0.968,0.0,Cardiomegaly,47.5,ÉLEVÉ,0.422,0.728,0.0
+00024557_000.png,No Finding,0.563,True,True,18.05,32.09,0.0,Normal,0.986,True,0.014,0.0,1.0,0.0,Cardiomegaly,47.3,ÉLEVÉ,0.813,0.014,0.0
+00015282_000.png,Cardiomegaly,0.63,True,True,20.22,32.09,0.0,Normal,0.853,True,0.147,0.006,0.992,0.002,Cardiomegaly,51.3,ÉLEVÉ,1.0,0.147,0.002
+00003620_000.png,No Finding,0.268,False,False,6.92,25.8,0.0,Normal,0.991,True,0.009,0.64,0.354,0.007,Normal,12.7,INDÉTERMINÉ,0.0,0.009,0.007
+00012681_048.png,Edema,0.463,True,False,16.16,31.5,1.13,Calcification,0.71,True,0.812,0.001,0.001,0.998,Edema,52.8,ÉLEVÉ,0.315,0.812,0.998
+00001373_011.png,Atelectasis|Cardiomegaly,-0.05,False,False,0.0,31.86,0.0,Calcification,0.934,True,0.944,0.003,0.992,0.005,Cardiomegaly,44.4,INDÉTERMINÉ,0.0,0.944,0.005
+00020307_006.png,No Finding,0.43,True,False,11.4,26.52,0.0,Normal,0.988,True,0.012,0.97,0.0,0.03,Normal,3.6,FAIBLE,0.148,0.012,0.03
+00011463_001.png,Cardiomegaly,0.63,True,True,16.51,26.19,0.0,Calcification,0.541,False,0.577,0.001,0.999,0.001,Cardiomegaly,55.8,ÉLEVÉ,1.0,0.577,0.001
+00010427_009.png,Edema|Effusion|Infiltration|Mass,0.487,True,False,15.63,32.09,0.0,Normal,0.918,True,0.082,0.002,0.0,0.997,Edema,47.2,ÉLEVÉ,0.435,0.082,0.997
+00004608_001.png,No Finding,0.534,True,True,15.84,29.67,0.0,Normal,0.927,True,0.073,0.978,0.0,0.022,Normal,11.7,FAIBLE,0.669,0.073,0.022
+00018735_003.png,Cardiomegaly|Infiltration,0.464,True,False,12.12,26.15,0.0,Normal,0.996,True,0.004,0.906,0.093,0.001,Normal,8.1,FAIBLE,0.318,0.004,0.001
+00025181_010.png,Edema,-0.05,False,False,0.0,31.86,0.02,Normal,0.972,True,0.028,0.31,0.006,0.684,Edema,27.9,INDÉTERMINÉ,0.0,0.028,0.684
+00021200_003.png,Cardiomegaly|Effusion|Infiltration,0.419,True,False,11.48,27.39,0.0,Calcification,0.495,False,0.547,0.013,0.987,0.0,Cardiomegaly,41.5,ÉLEVÉ,0.096,0.547,0.0
+00020130_011.png,Cardiomegaly|Effusion,0.276,False,False,8.26,29.92,0.0,Normal,0.996,True,0.004,1.0,0.0,0.0,Normal,0.1,INDÉTERMINÉ,0.0,0.004,0.0
+00024071_000.png,No Finding,0.523,True,True,13.1,25.03,0.0,Normal,0.997,True,0.003,0.999,0.001,0.0,Normal,9.3,FAIBLE,0.617,0.003,0.0
+00012834_049.png,Edema|Effusion|Infiltration,0.546,True,True,18.79,31.5,0.0,Calcification,0.868,True,0.996,0.0,0.0,1.0,Edema,60.9,ÉLEVÉ,0.732,0.996,1.0
+00027782_003.png,No Finding,0.502,True,True,17.59,31.86,0.71,Calcification,0.998,True,0.999,0.111,0.001,0.888,Edema,53.2,ÉLEVÉ,0.51,0.999,0.888
+00022993_016.png,Edema|Pneumonia,0.52,True,True,18.17,31.86,0.0,Calcification,0.593,False,0.879,0.0,0.0,1.0,Edema,57.8,ÉLEVÉ,0.602,0.879,1.0
+00018448_004.png,Cardiomegaly,0.578,True,True,19.77,31.5,1.22,Calcification,0.969,True,1.0,0.001,0.999,0.0,Cardiomegaly,58.3,ÉLEVÉ,0.888,1.0,0.0
+00007857_015.png,Atelectasis|Consolidation|Edema|Effusion,0.468,True,False,16.32,31.5,0.0,Calcification,0.952,True,0.967,0.008,0.822,0.171,Cardiomegaly,50.4,ÉLEVÉ,0.341,0.967,0.171
+00006304_009.png,Cardiomegaly|Effusion|Infiltration,0.721,True,True,18.61,25.8,0.83,Calcification,0.513,False,0.991,0.001,0.999,0.0,Cardiomegaly,59.9,ÉLEVÉ,1.0,0.991,0.0
+00028924_010.png,Atelectasis|Edema,0.641,True,True,18.87,29.45,0.06,Calcification,0.841,True,0.903,0.727,0.016,0.256,Normal,34.9,MODÉRÉ,1.0,0.903,0.256
+00003395_006.png,Cardiomegaly|Pneumothorax,0.539,True,True,14.72,27.31,0.33,Normal,0.985,True,0.015,0.0,1.0,0.0,Cardiomegaly,45.6,ÉLEVÉ,0.695,0.015,0.0
+00019106_001.png,Cardiomegaly|Effusion|Infiltration,0.432,True,False,12.94,29.92,2.56,Calcification,0.819,True,0.914,0.045,0.946,0.009,Cardiomegaly,45.0,ÉLEVÉ,0.161,0.914,0.009
+00025507_000.png,No Finding,0.427,True,False,13.7,32.09,0.18,Normal,0.745,True,0.255,0.653,0.347,0.001,Normal,16.7,FAIBLE,0.135,0.255,0.001
+00020020_002.png,No Finding,0.555,True,True,14.65,26.4,1.23,Normal,0.865,True,0.135,0.997,0.001,0.001,Normal,13.0,FAIBLE,0.773,0.135,0.001
+00014149_032.png,Edema,0.635,True,True,17.67,25.8,1.12,Calcification,0.512,False,0.518,0.0,0.0,1.0,Edema,60.2,ÉLEVÉ,1.0,0.518,1.0
+00001777_002.png,Cardiomegaly|Infiltration,0.568,True,True,14.65,25.8,0.02,Normal,0.853,True,0.147,0.094,0.905,0.0,Cardiomegaly,45.7,ÉLEVÉ,0.839,0.147,0.0
+00028716_000.png,Cardiomegaly,0.625,True,True,15.85,25.36,1.28,Normal,0.989,True,0.011,0.358,0.64,0.001,Cardiomegaly,37.6,ÉLEVÉ,1.0,0.011,0.001
+00018589_001.png,No Finding,0.484,True,False,12.5,25.8,0.0,Normal,0.993,True,0.007,1.0,0.0,0.0,Normal,6.4,FAIBLE,0.422,0.007,0.0
+00000131_002.png,Cardiomegaly|Emphysema,0.565,True,True,17.8,31.5,0.19,Normal,0.695,True,0.305,0.003,0.997,0.0,Cardiomegaly,50.3,ÉLEVÉ,0.826,0.305,0.0
+00016719_023.png,Edema|Infiltration,0.187,False,False,7.46,31.5,0.0,Calcification,0.895,True,0.905,0.002,0.0,0.998,Edema,49.0,INDÉTERMINÉ,0.0,0.905,0.998
+00017548_000.png,No Finding,0.526,True,True,16.76,31.86,0.0,Normal,0.957,True,0.043,1.0,0.0,0.0,Normal,9.9,FAIBLE,0.63,0.043,0.0
+00002763_006.png,Atelectasis|Cardiomegaly|Effusion|Infiltration,0.596,True,True,20.34,31.5,0.0,Aortic_enlargement,0.695,True,0.993,0.0,1.0,0.0,Cardiomegaly,59.6,ÉLEVÉ,0.979,0.993,0.0
+00014429_007.png,Edema|Infiltration|Pneumonia,0.466,True,False,16.24,31.5,1.33,Normal,0.848,True,0.152,0.0,0.002,0.998,Edema,46.4,ÉLEVÉ,0.328,0.152,0.998
+00010531_037.png,Cardiomegaly,0.572,True,True,19.61,31.5,0.0,Normal,0.934,True,0.066,0.0,1.0,0.0,Cardiomegaly,48.6,ÉLEVÉ,0.862,0.066,0.0
+00026742_001.png,Edema,0.281,False,False,9.03,32.09,0.0,Normal,0.956,True,0.044,0.013,0.001,0.986,Edema,39.9,INDÉTERMINÉ,0.0,0.044,0.986
+00003989_026.png,Cardiomegaly|Effusion|Fibrosis|Nodule,0.625,True,True,16.13,25.8,1.11,Calcification,0.888,True,0.898,0.0,1.0,0.0,Cardiomegaly,59.0,ÉLEVÉ,1.0,0.898,0.0
+00023271_013.png,Edema|Infiltration|Nodule,0.072,False,False,3.9,31.86,0.0,Normal,0.817,True,0.183,0.0,0.0,1.0,Edema,41.8,INDÉTERMINÉ,0.0,0.183,1.0
+00019750_015.png,Edema|Effusion|Infiltration|Pleural_Thickening,0.481,True,False,16.92,31.86,0.0,Calcification,0.627,True,0.705,0.005,0.001,0.994,Edema,52.9,ÉLEVÉ,0.406,0.705,0.994
+00005066_010.png,Cardiomegaly|Infiltration,0.617,True,True,21.38,32.06,0.0,Normal,0.731,True,0.269,0.005,0.995,0.0,Cardiomegaly,52.5,ÉLEVÉ,1.0,0.269,0.0
+00012834_013.png,Cardiomegaly|Effusion|Nodule,0.778,False,True,21.37,25.8,0.0,Calcification,0.979,True,0.999,0.01,0.244,0.746,Edema,63.4,INDÉTERMINÉ,1.0,0.999,0.746
+00015380_000.png,No Finding,0.234,False,False,7.52,32.09,0.0,Normal,0.772,True,0.228,1.0,0.0,0.0,Normal,2.3,INDÉTERMINÉ,0.0,0.228,0.0
+00011760_003.png,No Finding,0.416,True,False,14.68,31.5,1.21,Calcification,0.94,True,0.987,0.211,0.306,0.483,Edema,41.1,ÉLEVÉ,0.081,0.987,0.483
+00027442_007.png,No Finding,0.158,False,False,6.64,31.86,0.0,Normal,0.973,True,0.027,0.609,0.234,0.157,Normal,14.7,INDÉTERMINÉ,0.0,0.027,0.157
+00022572_049.png,Edema|Effusion|Infiltration,0.638,True,True,21.9,31.86,1.12,Normal,0.987,True,0.013,0.0,0.001,0.999,Edema,55.1,ÉLEVÉ,1.0,0.013,0.999
+00007355_009.png,No Finding,0.406,True,False,12.6,31.02,0.53,Calcification,0.559,False,0.561,0.549,0.017,0.434,Normal,24.0,FAIBLE,0.031,0.561,0.434
+00010352_063.png,Edema,0.536,True,True,18.46,31.5,0.0,Calcification,0.85,True,0.996,0.005,0.117,0.877,Edema,59.3,ÉLEVÉ,0.68,0.996,0.877
+00009584_009.png,No Finding,0.455,True,False,16.1,31.86,0.0,Normal,0.996,True,0.004,0.329,0.512,0.159,Cardiomegaly,28.5,MODÉRÉ,0.276,0.004,0.159
+00016410_011.png,Edema,0.481,True,False,16.73,31.5,0.34,Calcification,0.836,True,0.902,0.0,0.0,1.0,Edema,55.1,ÉLEVÉ,0.406,0.902,1.0
+00023093_018.png,Cardiomegaly|Effusion,0.492,True,False,17.26,31.86,0.03,Normal,0.757,True,0.243,0.065,0.035,0.9,Edema,46.5,ÉLEVÉ,0.458,0.243,0.9
+00028436_000.png,Cardiomegaly|Effusion,0.622,True,True,16.3,26.19,1.34,Normal,0.846,True,0.154,0.175,0.748,0.077,Cardiomegaly,45.8,ÉLEVÉ,1.0,0.154,0.077
+00009378_010.png,Edema|Effusion,0.534,True,True,17.13,32.09,0.0,Calcification,0.582,False,0.588,0.007,0.001,0.992,Edema,55.7,ÉLEVÉ,0.669,0.588,0.992
+00019369_009.png,No Finding,0.466,True,False,16.24,31.5,0.0,Normal,0.998,True,0.002,0.998,0.0,0.001,Normal,5.0,FAIBLE,0.328,0.002,0.001
+00026555_003.png,Edema|Effusion|Infiltration,0.549,True,True,19.08,31.86,0.81,Calcification,0.937,True,0.974,0.0,0.003,0.997,Edema,60.9,ÉLEVÉ,0.745,0.974,0.997
+00018227_001.png,No Finding,0.401,True,False,12.87,32.09,0.64,Normal,0.946,True,0.054,0.999,0.001,0.0,Normal,0.7,FAIBLE,0.005,0.054,0.0
+00005641_001.png,Cardiomegaly,0.523,True,True,18.05,31.5,0.0,Normal,0.564,False,0.436,0.005,0.984,0.011,Cardiomegaly,48.4,ÉLEVÉ,0.615,0.436,0.011
+00030428_000.png,No Finding,0.487,True,False,14.34,29.45,1.73,Normal,0.522,False,0.478,0.942,0.05,0.008,Normal,13.4,FAIBLE,0.435,0.478,0.008
+00002172_000.png,No Finding,0.544,True,True,16.02,29.44,0.29,Normal,0.889,True,0.111,0.997,0.0,0.003,Normal,12.1,FAIBLE,0.721,0.111,0.003
+00014477_000.png,Cardiomegaly,0.63,True,True,18.56,29.45,3.13,Normal,0.831,True,0.169,0.0,1.0,0.0,Cardiomegaly,51.7,ÉLEVÉ,1.0,0.169,0.0
+00018867_023.png,Edema|Effusion|Infiltration,0.223,False,False,8.71,31.86,0.32,Normal,0.992,True,0.008,0.0,0.0,1.0,Edema,40.1,INDÉTERMINÉ,0.0,0.008,1.0
+00029422_005.png,Edema,0.325,True,False,11.95,31.86,0.0,Normal,0.802,True,0.198,0.0,0.0,1.0,Edema,42.0,ÉLEVÉ,0.0,0.198,1.0
+00018643_007.png,No Finding,0.434,True,False,15.26,31.5,0.0,Calcification,0.608,True,0.69,0.912,0.006,0.082,Normal,13.0,FAIBLE,0.172,0.69,0.082
