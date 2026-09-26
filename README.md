@@ -4,7 +4,7 @@ Projet de Fin d'Études (PFE) — Master MIT/TAM, Informatique et IA appliquée
 **Faculté des Sciences de Rabat, Université Mohammed V**
 Réalisé par **Abdallah OUAHMANE** — Encadrant : **Pr. Mohamed El Hassouni**
 
-📄 Rapport complet : [`PFE_Cardiovascular_AI_v2.pdf`](./PFE_Cardiovascular_AI_v2.pdf)
+📄 Rapport complet : [`PFE_Cardiovascular_AI_v2.pdf`](./https://github.com/sw-ouahmane/Projet-de-fin-d-etude/blob/main/rapport/PFE_Rapport_Final%20(1).pdf)
 
 ---
 
