@@ -141,7 +141,7 @@ pip install pandas numpy matplotlib scikit-learn scipy
 
 **Chemin du CSV :** les notebooks ont été écrits pour Kaggle. Pour une exécution locale depuis ce dossier, remplacer dans chaque notebook :
 ```python
-CSV_PATH = '/kaggle/input/datasets/abdallahouahmane/resultas-phase4/resultats_phase4_v5.csv'
+CSV_PATH = 'https://github.com/sw-ouahmane/Projet-de-fin-d-etude/blob/main/Etudes/data/resultats_phase4_v5.csv'
 ```
 par :
 ```python
