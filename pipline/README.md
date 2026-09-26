@@ -29,7 +29,7 @@ pipline/
 | `pipline_v3.ipynb` | « Version corrigée [Bug #2+#5+#6] » | `0.50×s_ctr + 0.25×s_calcif + 0.25×s_cong` (fusion uniforme) | `calcif_model_best.pth` (`strict=False`) | **Utilise le checkpoint M3 incorrect** — voir avertissement ci-dessous |
 | `pipline_v5.ipynb` | « PIPELINE V5 — Démonstration » | `0.15×s_ctr + 0.40×s_cong + 0.10×s_calcif + 0.35×prob_cardio` | `calcif_model_final.pth` (strict) | **Version finale déployée** |
 
-### `pipline_v1.ipynb` — Formule V3
+### `pipline_v1.ipynb` — Formule    V3
 Applique la fusion à deux composantes retenue avant l'introduction de `prob_cardio` (Étude 2B). Rapporte en commentaire les résultats des Études 1 à 6 tels qu'observés pour cette formule (AUC 0.7523, IC 95 % [0.709 ; 0.796]). Charge les 4 modèles en mode strict et inclut un Grad-CAM basé sur les vrais gradients (`register_full_backward_hook`).
 
 ### `pipline_v3.ipynb` — Corrections d'ingénierie (fusion uniforme)
