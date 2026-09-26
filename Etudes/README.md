@@ -12,19 +12,25 @@ Toutes les études portent sur les résultats d'inférence du pipeline V5 appliq
 
 ```
 Etudes/
+├── Models/
+│   ├── unet_cardio_robust_v2_best .pth   # M1 — U-Net segmentation cardiaque
+│   ├── unet_calcif_best_kagg.pth         # M2 — U-Net segmentation calcique
+│   ├── calcif_model_final.pth            # M3 — EfficientNet-B0 classifieur calcique
+│   └── cardio_risk_v2_best.pth           # M4 — EfficientNet-B0 risque cardiovasculaire
 ├── data/
-│   ├── Models/                   # Checkpoints .pth des modules M1 à M4
-│   └── resultats_phase4_v5.csv   # Résultats d'inférence du pipeline V5 (501 images)
-├── etude1.ipynb                  # Ablation des modules
-├── etude2.ipynb                  # Sources du signal calcique (M2 vs M3)
-├── etude2b.ipynb                 # M2 en composante additionnelle + genèse de V5
-├── etude3.ipynb                  # Sensibilité aux pondérations
-├── etude4.ipynb                  # Gating par la confiance et calibration
-├── etude5.6.ipynb                # Comparaison end-to-end + validation des poids
+│   └── resultats_phase4_v5.csv           # Résultats d'inférence du pipeline V5 (501 images)
+├── etude1.ipynb                          # Ablation des modules
+├── etude2.ipynb                          # Sources du signal calcique (M2 vs M3)
+├── etude2b.ipynb                         # M2 en composante additionnelle + genèse de V5
+├── etude3.ipynb                          # Sensibilité aux pondérations
+├── etude4.ipynb                          # Gating par la confiance et calibration
+├── etude5.6.ipynb                        # Comparaison end-to-end + validation des poids
 └── README.md
 ```
 
-**Point important :** les études n'exécutent aucun modèle. Elles lisent uniquement le fichier `resultats_phase4_v5.csv`. Le dossier `Models/` contient les checkpoints ayant servi à produire ce CSV lors de l'inférence ; il permet de régénérer le CSV, mais n'est pas requis pour relancer les études. Aucun GPU n'est nécessaire.
+**Point important :** les études n'exécutent aucun modèle. Elles lisent uniquement le fichier `resultats_phase4_v5.csv`. Le dossier `Models/` contient les checkpoints ayant servi à produire ce CSV lors de l'inférence (voir le notebook `Interferences/interference.ipynb` à la racine du dépôt) ; il permet de régénérer le CSV, mais n'est pas requis pour relancer les études. Aucun GPU n'est nécessaire.
+
+> `calcif_model_final.pth` est le checkpoint M3 correct (chargement `strict=True`, epoch 20). Ne pas le confondre avec un éventuel `calcif_model_best.pth` d'une exécution antérieure, qui correspondait à un EfficientNet-B0 ImageNet non entraîné.
 
 ---
 
@@ -139,13 +145,17 @@ La performance dépend-elle d'un réglage fin des quatre poids ?
 pip install pandas numpy matplotlib scikit-learn scipy
 ```
 
-**Chemin du CSV :** les notebooks ont été écrits pour Kaggle. Pour une exécution locale depuis ce dossier, remplacer dans chaque notebook :
+**Chemin du CSV :** les notebooks ont été écrits pour Kaggle et pointent encore vers :
 ```python
-CSV_PATH = 'https://github.com/sw-ouahmane/Projet-de-fin-d-etude/blob/main/Etudes/data/resultats_phase4_v5.csv'
+CSV_PATH = '/kaggle/input/datasets/abdallahouahmane/resultas-phase4/resultats_phase4_v5.csv'
 ```
-par :
+Pour une exécution locale depuis ce dossier, remplacer cette ligne par :
 ```python
 CSV_PATH = 'data/resultats_phase4_v5.csv'
+```
+Pour charger le CSV directement depuis GitHub sans cloner le dépôt, utiliser l'URL **raw** (et non le lien `/blob/`, qui pointe vers la page HTML de visualisation) :
+```python
+CSV_PATH = 'https://raw.githubusercontent.com/sw-ouahmane/Projet-de-fin-d-etude/main/Etudes/data/resultats_phase4_v5.csv'
 ```
 
 Les notebooks sont indépendants et peuvent être exécutés dans n'importe quel ordre. L'ordre numérique suit toutefois la logique de l'argumentation : contribution des modules → choix de la source calcique → robustesse des poids → gating → validation finale.
